@@ -17,14 +17,16 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
   <li>C# Coding - Intermediate</li>
 </ul>
 
-<ol>
-  <li>..SOLID principles</li>
-  <li>..Inheritance and Polymorphism (OOP principles)</li>
-  <li>..Most-known design patterns</li>
-  <li>..Events and delegates</li>
-  <li>..Use of namespaces</li>
-  <li>..Programming logic in general</li>
-</ol>
+<ul>
+	<ul>
+		<li> SOLID principles</li>
+		<li> Inheritance and Polymorphism (OOP principles)</li>
+		<li> Most-known design patterns</li>
+		<li> Events and delegates</li>
+		<li> Use of namespaces</li>
+		<li> Programming logic in general</li>
+    </ul>
+</ul>
 
 <ul>
   <li>Using Unity Engine Editor Interface</li>
@@ -40,19 +42,21 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 	<li> Programação em C# - Intermediário</li>
 </ul>
 
-<ol>
-	<li>Princípios SOLID</li>
-  	<li>Herança e polimorfismo (princípios POO)</li>
-  	<li>Design Patterns mais conhecidos</li>
-  	<li>Eventos e delegates</li>
-  	<li>Uso de namespaces</li>
-  	<li>Lógica de programação em geral</li>
-</ol>
+<ul>
+	<ul>
+		<li>Princípios SOLID</li>
+		<li>Herança e polimorfismo (princípios POO)</li>
+		<li>Design Patterns mais conhecidos</li>
+		<li>Eventos e delegates</li>
+		<li>Uso de namespaces</li>
+		<li>Lógica de programação em geral</li>
+	</ul>
+</ul>
 
 <ul>
-	<li>..Utilizar a interface do Editor da engine Unity</li>
-	<li>..Modelagem 3D do Blender - Básico</li>
-	<li>..Desenho e animação de pixel art - Básico</li>
-	<li>..Sony Vegas Pro - Intermediário</li>
-	<li>..Adobe Photoshop - Intermediário</li>
+	<li>Utilizar a interface do Editor da engine Unity</li>
+	<li>Modelagem 3D do Blender - Básico</li>
+	<li>Desenho e animação de pixel art - Básico</li>
+	<li>Sony Vegas Pro - Intermediário</li>
+	<li>Adobe Photoshop - Intermediário</li>
 </ul>
