@@ -17,16 +17,14 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
   <li>C# Coding - Intermediate</li>
 </ul>
 
-
-  <ul style="list-style-type:circle; margin-left:50px;">
-      <li>SOLID principles</li>
-      <li>Inheritance and Polymorphism (OOP principles)</li>
-      <li>Most-known design patterns</li>
-      <li>Events and delegates</li>
-      <li>Use of namespaces</li>
-      <li>Programming logic in general</li>
-  </ul>
-
+<ol>
+  <li>-  SOLID principles</li>
+  <li>-  Inheritance and Polymorphism (OOP principles)</li>
+  <li>-  Most-known design patterns</li>
+  <li>-  Events and delegates</li>
+  <li>-  Use of namespaces</li>
+  <li>-  Programming logic in general</li>
+</ol>
 
 <ul>
   <li>Using Unity Engine Editor Interface</li>
@@ -36,18 +34,24 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
   <li>Adobe Photoshop - Intermediate</li>
 </ul>
 
-<p> 🇧🇷:</p>
-<p>   • Utilizar a interface do Editor da engine Unity</p>
-<p>   • Programação em C# - intermediário</p>
-<p>     - Princípios SOLID</p>
-<p>     - Herança e polimorfismo (princípios POO)</p>
-<p>     - Design Patterns mais conhecidos</p>
-<p>     - Eventos e delegates</p>
-<p>     - Uso de namespaces</p>
-<p>     - Lógica de programação em geral</p>
-<p>   • Modelagem 3D do Blender - Básico</p>
-<p>   • Desenho e animação de pixel art - Básico</p>
-<p>   • Sony Vegas Pro - Intermediário</p>
-<p>   • Adobe Photoshop - Intermediário</p>
+🇧🇷:
+<ul>	
+	<li> Programação em C# - Intermediário</li>
+</ul>
 
-<hr>
+<ol>
+	<li>- Princípios SOLID</li>
+  	<li>- Herança e polimorfismo (princípios POO)</li>
+  	<li>- Design Patterns mais conhecidos</li>
+  	<li>- Eventos e delegates</li>
+  	<li>- Uso de namespaces</li>
+  	<li>- Lógica de programação em geral</li>
+</ol>
+
+<ul>
+	<li> Utilizar a interface do Editor da engine Unity</li>
+	<li> Modelagem 3D do Blender - Básico</li>
+	<li> Desenho e animação de pixel art - Básico</li>
+	<li> Sony Vegas Pro - Intermediário</li>
+	<li> Adobe Photoshop - Intermediário</li>
+</ul>
