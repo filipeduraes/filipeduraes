@@ -17,8 +17,8 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
   <li>C# Coding - Intermediate</li>
 </ul>
 
-<div style="margin-left:50px;">
-  <ul style="list-style-type:circle;">
+
+  <ul style="list-style-type:circle; margin-left:50px;">
       <li>SOLID principles</li>
       <li>Inheritance and Polymorphism (OOP principles)</li>
       <li>Most-known design patterns</li>
@@ -26,7 +26,7 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
       <li>Use of namespaces</li>
       <li>Programming logic in general</li>
   </ul>
-</div>
+
 
 <ul>
   <li>Using Unity Engine Editor Interface</li>
