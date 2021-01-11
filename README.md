@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **filipeduraes/filipeduraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/filipeduraes/<OWNER>/<OWNER>/readme_header.png "Header")](https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/Header_GithubReadme.png)
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/Header_GithubReadme.png" width="811" height="324">
