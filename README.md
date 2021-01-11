@@ -11,20 +11,22 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 <h1> 💻 Skills | Habilidades </h1>
 
  🇺🇸:
+<dl>
+  <dt>• C# Coding - Intermediate</dt>
+    <dd>- SOLID principles</dd>
+    <dd>- Inheritance and Polymorphism (OOP principles)</dd>
+    <dd>- Most-known design patterns</dd>
+    <dd>- Events and delegates</dd>
+    <dd>- Use of namespaces</dd>
+    <dd>- Programming logic in general</dd>
+</dl>
 <ul>
   <li>Using Unity Engine Editor Interface</li>
-  <li>C# Coding - Intermediate</li>
+  <li>Blender 3D modeling - Basic</li>
+  <li>Pixel art drawing and animation - Basic</li>
+  <li>Sony Vegas Pro - Intermediate</li>
+  <li>Adobe Photoshop - Intermediate</li>
 </ul>
-      - SOLID principles
-      - Inheritance and Polymorphism (OOP principles)</p>
-      - Most-known design patterns</p>
-      - Events and delegates</p>
-      - Use of namespaces</p>
-      - Programming logic in general</p>
-• Blender 3D modeling - Basic</p>
-• Pixel art drawing and animation - Basic</p>
-• Sony Vegas Pro - Intermediate</p>
-• Adobe Photoshop - Intermediate</p>
 
 <p> 🇧🇷:</p>
 <p>   • Utilizar a interface do Editor da engine Unity</p>
