@@ -67,10 +67,10 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 
 <ul>
 	<li>Email: filipehdduraes@gmail.com</li>
-	<li>Instagram: instagram.com/idea.togame</li>
-    	<li>Facebook: facebook.com/idea.togame</li>
-    	<li>Youtube: youtube.com/channel/UCoLD9_rZpGvsr-7PoV0ynRw</li>
-	<li>Linkedin: linkedin.com/in/filipeduraes</li>
+	<li href="https://www.instagram.com/idea.togame">Instagram</li>
+    	<li href="https://facebook.com/idea.togame">Facebook</li>
+    	<li href="https://www.youtube.com/channel/UCoLD9_rZpGvsr-7PoV0ynRw">Youtube</li>
+	<li href="linkedin.com/in/filipeduraes">Linkedin</li>
 </ul>
 
 <hr>
