@@ -8,19 +8,26 @@ I am from Curvelo, Minas Gerais in Brazil and I stearted learning how to code wi
 <p> 🇧🇷: O meu nome é Filipe Hipólito Diniz Durães, tenho 16 anos e sou estudante do Ensino Médio Técnico Integrado em Eletrotécnica no CEFET-MG.
 Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ênfase em Unity por hobbie entre dois a três anos atrás. E hoje em dia consigo escrever meus próprios códigos de forma limpa e performática.</p>
 
+<hr>
+
 <h1> 💻 Skills | Habilidades </h1>
 
  🇺🇸:
 <ul>
   <li>C# Coding - Intermediate</li>
 </ul>
-    - SOLID principles</dd>
-    - Inheritance and Polymorphism (OOP principles)</dd>
-    - Most-known design patterns</dd>
-    - Events and delegates</dd>
-    - Use of namespaces</dd>
-    - Programming logic in general</dd>
-</dl>
+
+<div style="margin-left:50px;">
+  <ul style="list-style-type:circle;">
+      <li>SOLID principles</li>
+      <li>Inheritance and Polymorphism (OOP principles)</li>
+      <li>Most-known design patterns</li>
+      <li>Events and delegates</li>
+      <li>Use of namespaces</li>
+      <li>Programming logic in general</li>
+  </ul>
+</div>
+
 <ul>
   <li>Using Unity Engine Editor Interface</li>
   <li>Blender 3D modeling - Basic</li>
@@ -42,3 +49,5 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 <p>   • Desenho e animação de pixel art - Básico</p>
 <p>   • Sony Vegas Pro - Intermediário</p>
 <p>   • Adobe Photoshop - Intermediário</p>
+
+<hr>
