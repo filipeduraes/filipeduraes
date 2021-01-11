@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/Header_GithubReadme.png" width="1000" height="370">
+[![Header](https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/Header_GithubReadme.png "Header")](https://www.linkedin.com/in/filipeduraes/)
 
 <h1> 👋 Basic Info | Informações Básicas </h1>
 
