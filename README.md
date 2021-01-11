@@ -3,10 +3,10 @@
 <h1> 👋 Basic Info | Informações Básicas </h1>
 
 <p> 🇺🇸: My name is Filipe Hipólito Diniz Durães, I am 16 years old and currently a High school with a certificate of Electrotechnical Technician student at CEFET-MG.
-I am from Curvelo, Minas Gerais in Brazil and I stearted learning how to code with focus on Unity by hobbie among two and three years ago. And nowadays I can write my own codes in a clean and performatic way.</p>
+I am from Curvelo, Minas Gerais in Brazil and I stearted learning how to code with focus on Unity by hobbie among two and three years ago. And nowadays I can write my own codes in a clean and performatic way. I also own the Facebook, Instagram and Youtube page: Idea.ToGame</p>
 
 <p> 🇧🇷: O meu nome é Filipe Hipólito Diniz Durães, tenho 16 anos e sou estudante do Ensino Médio Técnico Integrado em Eletrotécnica no CEFET-MG.
-Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ênfase em Unity por hobbie entre dois a três anos atrás. E hoje em dia consigo escrever meus próprios códigos de forma limpa e performática.</p>
+Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ênfase em Unity por hobbie entre dois a três anos atrás. E hoje em dia consigo escrever meus próprios códigos de forma limpa e performática. Também sou proprietário da página do Facebook, Instagram e Youtube: Idea.ToGame</p>
 
 <hr>
 
@@ -60,3 +60,16 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 	<li>Sony Vegas Pro - Intermediário</li>
 	<li>Adobe Photoshop - Intermediário</li>
 </ul>
+
+<hr>
+
+<h1> 📱 Contact Information | Informações de Contato</h1>
+
+<ul>
+	<li>Email: filipehdduraes@gmail.com</li>
+	<li>Instagram: instagram.com/idea.togame</li>
+    <li>Facebook: facebook.com/idea.togame</li>
+    <li>Youtube: youtube.com/channel/UCoLD9_rZpGvsr-7PoV0ynRw</li>
+</ul>
+
+<hr>
