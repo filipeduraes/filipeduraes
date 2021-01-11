@@ -1,4 +1,4 @@
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/Header_GithubReadme.png" width="1000" height="370">
+<img src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/Header_GithubReadme.png" width="1000" height="370">
 
 <h1> 👋 Basic Info | Informações Básicas </h1>
 
@@ -12,18 +12,18 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 
 <h1> 💻 Skills | Habilidades </h1>
 
- 🇺🇸:
+🇺🇸:
 <ul>
   <li>C# Coding - Intermediate</li>
 </ul>
 
 <ol>
-  <li>-  SOLID principles</li>
-  <li>-  Inheritance and Polymorphism (OOP principles)</li>
-  <li>-  Most-known design patterns</li>
-  <li>-  Events and delegates</li>
-  <li>-  Use of namespaces</li>
-  <li>-  Programming logic in general</li>
+  <li>..SOLID principles</li>
+  <li>..Inheritance and Polymorphism (OOP principles)</li>
+  <li>..Most-known design patterns</li>
+  <li>..Events and delegates</li>
+  <li>..Use of namespaces</li>
+  <li>..Programming logic in general</li>
 </ol>
 
 <ul>
@@ -34,24 +34,25 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
   <li>Adobe Photoshop - Intermediate</li>
 </ul>
 
+
 🇧🇷:
 <ul>	
 	<li> Programação em C# - Intermediário</li>
 </ul>
 
 <ol>
-	<li>- Princípios SOLID</li>
-  	<li>- Herança e polimorfismo (princípios POO)</li>
-  	<li>- Design Patterns mais conhecidos</li>
-  	<li>- Eventos e delegates</li>
-  	<li>- Uso de namespaces</li>
-  	<li>- Lógica de programação em geral</li>
+	<li>Princípios SOLID</li>
+  	<li>Herança e polimorfismo (princípios POO)</li>
+  	<li>Design Patterns mais conhecidos</li>
+  	<li>Eventos e delegates</li>
+  	<li>Uso de namespaces</li>
+  	<li>Lógica de programação em geral</li>
 </ol>
 
 <ul>
-	<li> Utilizar a interface do Editor da engine Unity</li>
-	<li> Modelagem 3D do Blender - Básico</li>
-	<li> Desenho e animação de pixel art - Básico</li>
-	<li> Sony Vegas Pro - Intermediário</li>
-	<li> Adobe Photoshop - Intermediário</li>
+	<li>..Utilizar a interface do Editor da engine Unity</li>
+	<li>..Modelagem 3D do Blender - Básico</li>
+	<li>..Desenho e animação de pixel art - Básico</li>
+	<li>..Sony Vegas Pro - Intermediário</li>
+	<li>..Adobe Photoshop - Intermediário</li>
 </ul>
