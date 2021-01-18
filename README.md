@@ -2,11 +2,11 @@
 
 <h1> 👋 Basic Info | Informações Básicas </h1>
 
-<p> 🇺🇸: My name is Filipe Hipólito Diniz Durães, I am 16 years old and currently a High school with a certificate of Electrotechnical Technician student at CEFET-MG.
-I am from Curvelo, Minas Gerais in Brazil and I started learning how to code with focus on Unity by hobbie among two and three years ago. And nowadays I can write my own codes in a clean and performatic way. I also own the Facebook, Instagram and Youtube page: Idea.ToGame</p>
+<p> 🇺🇸: My name is Filipe Hipólito Diniz Durães, I am 16 years old and I am currently a High school student with a certificate of Electrotechnical Technician at CEFET-MG.
+I'm from Curvelo, Minas Gerais in Brazil and I am a C# developer. I look to write codes on a clean and performatic way that facilitate its maintenance and extension. I have knowledge about the Unity game engine libraries, and about its interface's best practices, as well as the operation of its component system. I also own the Facebook page, Instagram and YouTube channel: Idea.ToGame</p>
 
 <p> 🇧🇷: O meu nome é Filipe Hipólito Diniz Durães, tenho 16 anos e sou estudante do Ensino Médio Técnico Integrado em Eletrotécnica no CEFET-MG.
-Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ênfase em Unity por hobbie entre dois a três anos atrás. E hoje em dia consigo escrever meus próprios códigos de forma limpa e performática. Também sou proprietário da página do Facebook, Instagram e Youtube: Idea.ToGame</p>
+Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus códigos de maneira limpa e performática que facilite sua manutenção e extensão. Tenho conhecimentos sobre as bibliotecas da engine de jogos Unity, tanto como uma visão geral e melhores práticas da sua interface, assim como o funcionamento do seu sistema de componentes. E também sou proprietário da página do Facebook, Instagram e canal do Youtube: Idea.ToGame</p>
 
 <hr>
 
@@ -14,7 +14,7 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 
 🇺🇸:
 <ul>
-  <li>C# Coding - Intermediate</li>
+  <li>C# Development - Intermediate</li>
 </ul>
 
 <ul>
@@ -23,8 +23,7 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 		<li> Inheritance and Polymorphism (OOP principles)</li>
 		<li> Most-known design patterns</li>
 		<li> Events and delegates</li>
-		<li> Use of namespaces</li>
-		<li> Programming logic in general</li>
+		<li> Unity Libraries</li>
     </ul>
 </ul>
 
@@ -48,8 +47,7 @@ Sou de Curvelo, Minas Gerais no Brasil e comecei a aprender programação com ê
 		<li>Herança e polimorfismo (princípios POO)</li>
 		<li>Design Patterns mais conhecidos</li>
 		<li>Eventos e delegates</li>
-		<li>Uso de namespaces</li>
-		<li>Lógica de programação em geral</li>
+		<li>Bibliotecas Unity</li>
 	</ul>
 </ul>
 
