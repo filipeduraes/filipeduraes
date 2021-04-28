@@ -15,19 +15,6 @@ Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus c
 🇺🇸:
 <ul>
   <li>C# Development - Intermediate</li>
-</ul>
-
-<ul>
-	<ul>
-		<li> SOLID principles</li>
-		<li> Inheritance and Polymorphism (OOP principles)</li>
-		<li> Most-known design patterns</li>
-		<li> Events and delegates</li>
-		<li> Unity Libraries</li>
-    </ul>
-</ul>
-
-<ul>
   <li>Using Unity Engine Editor Interface</li>
   <li>Blender 3D modeling - Basic</li>
   <li>Pixel art drawing and animation - Basic</li>
@@ -39,19 +26,6 @@ Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus c
 🇧🇷:
 <ul>	
 	<li> Programação em C# - Intermediário</li>
-</ul>
-
-<ul>
-	<ul>
-		<li>Princípios SOLID</li>
-		<li>Herança e polimorfismo (princípios POO)</li>
-		<li>Design Patterns mais conhecidos</li>
-		<li>Eventos e delegates</li>
-		<li>Bibliotecas Unity</li>
-	</ul>
-</ul>
-
-<ul>
 	<li>Utilizar a interface do Editor da engine Unity</li>
 	<li>Modelagem 3D do Blender - Básico</li>
 	<li>Desenho e animação de pixel art - Básico</li>
