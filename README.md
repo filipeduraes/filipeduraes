@@ -43,6 +43,8 @@ Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus c
     	<li><a href="https://facebook.com/idea.togame">Facebook</a></li>
     	<li><a href="https://www.youtube.com/channel/UCoLD9_rZpGvsr-7PoV0ynRw">Youtube</a></li>
 	<li><a href="https://linkedin.com/in/filipeduraes">Linkedin</a></li>
+	<li><a href="https://gamejolt.com/@IdeaToGame">GameJolt</a></li>
+	<li><a href="https://fhdduraes.itch.io">Itch.io</a></li>
 </ul>
 
 <hr>
