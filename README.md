@@ -46,3 +46,5 @@ Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus c
 </ul>
 
 <hr>
+
+<img src="https://github-readme-stats.vercel.app/api?username=filipeduraes&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Filipe Durães's github stats" />
