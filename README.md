@@ -1,5 +1,3 @@
-<body bgcolor="#121212">
-	
 [![Header](https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/Header_GithubReadme.png "Header")](https://www.linkedin.com/in/filipeduraes/)
 
 <h1> 👋 Basic Info | Informações Básicas </h1>
@@ -52,4 +50,3 @@ Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus c
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=filipeduraes&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Filipe Durães's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeduraes&hide=Makefile&layout=compact&theme=dracula" height="150" alt="Filipe Durães's top langs" />
-</body>
