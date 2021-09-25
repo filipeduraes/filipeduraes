@@ -17,7 +17,7 @@ Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus c
 
 <hr>
 <a href="https://github.com/ideatogame/SpaceShooterSample">
-|<img width="1604" alt="Space Shooter Repo" src="https://github.com/ideatogame/SpaceShooterSample/blob/main/image_2021-04-28_172339.png"></a> Space Shooter |
+|<img width="200" alt="Space Shooter Repo" src="https://github.com/ideatogame/SpaceShooterSample/blob/main/image_2021-04-28_172339.png"></a> Space Shooter |
 
 # 📱 Contact Information | Informações de Contato
 
