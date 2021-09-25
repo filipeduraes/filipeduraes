@@ -15,8 +15,10 @@ Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus c
 
 <tr>
 	<td align="center">
-		<img href="https://github.com/ideatogame/SpaceShooterSample" src="https://github.com/ideatogame/SpaceShooterSample/blob/main/image_2021-04-28_172339.png" alt="Asteroids" width="200"/>
-		<em>Space Shooter</em>
+		<a href="https://github.com/ideatogame/SpaceShooterSample">
+			<img src="https://github.com/ideatogame/SpaceShooterSample/blob/main/image_2021-04-28_172339.png" alt="Asteroids" width="200"/>
+			<em>Space Shooter</em>
+		</a>
 	</td>
 </tr>
 
