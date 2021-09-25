@@ -13,9 +13,12 @@ Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus c
 # 💻 Projects | Projetos
 ## Clique para visualizar
 
-<img src="https://github.com/ideatogame/SpaceShooterSample/blob/main/image_2021-04-28_172339.png" alt="Asteroids" width="200"/>
-*Space Shooter*
-
+<tr>
+	<td align="center">
+		<img src="https://github.com/ideatogame/SpaceShooterSample/blob/main/image_2021-04-28_172339.png" alt="Asteroids" width="200"/>
+		<em>Space Shooter</em>
+	</td>
+</tr>
 
 <hr>
 
