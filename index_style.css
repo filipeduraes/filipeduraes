@@ -1,0 +1,123 @@
+:root{ 
+  /* S I D E B A R */
+  --sidebar-color-primary: rgb(26, 26, 26);
+  --sidebar-button-color-primary: rgb(43, 46, 45);
+  --sidebar-button-color-secondary: rgb(188, 255, 221);
+  --sidebar-button-hover-color-primary: rgb(40, 236, 193);
+  --sidebar-button-hover-color-secondary: rgb(12, 32, 28);
+
+  --sidebar-margin-left: 200px;
+  --sidebar-margin-left-offset: 180px;
+}
+
+.main{
+  margin-left: var(--sidebar-margin-left);
+  padding: 0px 10px;
+}
+
+/*============================== B A S I C ==============================*/
+body{
+  background-color: rgb(31, 31, 31);
+}
+
+h1, h2, h3, p, li{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+  text-align: center;
+}
+
+h1, li{
+  color: white;
+}
+
+h3{
+  color: rgb(255, 255, 255, 0.8);
+}
+
+p{
+  color: rgb(255, 255, 255, 0.6);
+}
+
+.header{
+  object-fit: contain;
+  width: 1050px;
+}
+  
+.legend{
+  margin-top: -10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#block-container{
+  display: flex;
+  text-align: justify;
+  justify-content: center;
+}
+
+#block1{
+  margin-right: 20px;
+}
+
+#block1, #block2{
+  display: inline;
+}
+
+/*============================== S I D E B A R ==============================*/
+.sidebar{
+  height: 100%;
+  width: var(--sidebar-margin-left);
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: var(--sidebar-color-primary);
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidebar p{
+  color: white;
+}
+
+#profile{
+  object-fit: contain;
+  border-radius: 100%;
+  width: var(--sidebar-margin-left-offset);
+  padding-left: 10px;
+}
+
+#sidebar-name{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.sidebar-btn a{
+  text-decoration: none;
+}
+
+.sidebar-btn li{
+  cursor: pointer;
+  transition: background .3s;
+  transition: margin .3s;
+  margin-left: -20px;
+  margin-bottom: 10px;
+  color: var(--sidebar-button-color-secondary);
+  
+  list-style-type: none;
+  padding: 10px;
+  background-color: var(--sidebar-button-color-primary);
+  border-radius: 3px;
+  box-shadow: -6px 6px 0.5em -10px rgb(0, 0, 0);
+}
+
+.sidebar-btn li:hover{
+  background-color: var(--sidebar-button-hover-color-primary);
+  color: var(--sidebar-button-hover-color-secondary);
+  list-style-type: circle;
+  margin-left: -15px;
+}
