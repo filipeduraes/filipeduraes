@@ -1,10 +1,10 @@
 :root{   
     /* S I D E B A R */
-    --sidebar-color-primary: #253947;
-    --sidebar-button-color-primary: #1B517A;
-    --sidebar-button-color-secondary: #18C7BD;
-    --sidebar-button-hover-color-primary: #C77C04;
-    --sidebar-button-hover-color-secondary: #3B2501;
+    --sidebar-color-primary: #485460;
+    --sidebar-button-color-primary: #0fbcf9;
+    --sidebar-button-color-secondary: #1e272e;
+    --sidebar-button-hover-color-primary: #05c46b;
+    --sidebar-button-hover-color-secondary: #1e272e;
   
     --sidebar-margin-left: 200px;
     --sidebar-margin-left-offset: 180px;
@@ -17,11 +17,15 @@
   
   /*============================== B A S I C ==============================*/
   body{
-    background-color: #0A1E2E;
+    background-color: #1e272e;
   }
   
-  h1, h2, h3, p, li{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  h3, p{
+    font-family: serif;
+  }
+  
+  h1, h2, h3, li{
+    font-family: sans-serif;
   }
   
   h1{
@@ -109,6 +113,7 @@
   
   .sidebar p{
     color: white;
+    font-family: sans-serif;
   }
   
   #profile{
@@ -131,6 +136,7 @@
   
   .sidebar-btn li{
     cursor: pointer;
+    font-weight: bolder;
     transition: background .3s;
     transition: margin .3s;
     margin-left: -20px;
