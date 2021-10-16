@@ -1,10 +1,10 @@
 :root{ 
   /* S I D E B A R */
-  --sidebar-color-primary: rgb(26, 26, 26);
-  --sidebar-button-color-primary: rgb(43, 46, 45);
-  --sidebar-button-color-secondary: rgb(188, 255, 221);
-  --sidebar-button-hover-color-primary: rgb(40, 236, 193);
-  --sidebar-button-hover-color-secondary: rgb(12, 32, 28);
+  --sidebar-color-primary: #253947;
+  --sidebar-button-color-primary: #1B517A;
+  --sidebar-button-color-secondary: #18C7BD;
+  --sidebar-button-hover-color-primary: #C77C04;
+  --sidebar-button-hover-color-secondary: #3B2501;
 
   --sidebar-margin-left: 200px;
   --sidebar-margin-left-offset: 180px;
@@ -17,7 +17,7 @@
 
 /*============================== B A S I C ==============================*/
 body{
-  background-color: rgb(31, 31, 31);
+  background-color: #0A1E2E;
 }
 
 h1, h2, h3, p, li{
@@ -32,17 +32,14 @@ h1, li{
   color: white;
 }
 
-h3{
-  color: rgb(255, 255, 255, 0.8);
-}
-
 p{
-  color: rgb(255, 255, 255, 0.6);
+  color: rgb(255, 255, 255, 0.7);
 }
 
 .header{
   object-fit: contain;
-  width: 1050px;
+  max-width: 100%;
+  margin: auto;
 }
   
 .legend{
@@ -76,6 +73,7 @@ p{
   background-color: var(--sidebar-color-primary);
   overflow-x: hidden;
   padding-top: 20px;
+  box-shadow: 5px 0px 0.4em rgb(0, 0, 0, 0.5);
 }
 
 .sidebar p{
@@ -118,6 +116,5 @@ p{
 .sidebar-btn li:hover{
   background-color: var(--sidebar-button-hover-color-primary);
   color: var(--sidebar-button-hover-color-secondary);
-  list-style-type: circle;
   margin-left: -15px;
 }
