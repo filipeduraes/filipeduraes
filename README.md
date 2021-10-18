@@ -1,37 +1,21 @@
 [![Header](https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/images/Header_GithubReadme.png "Header")](https://www.linkedin.com/in/filipeduraes/)
 
-<h1> 👋 Basic Info | Informações Básicas </h1>
+<h1> 👋 BASIC INFO | INFORMAÇÕES BÁSICAS </h1>
 
-<p> 🇺🇸: My name is Filipe Hipólito Diniz Durães, I am 17 years old and I am currently a High school student with a certificate of Electrotechnical Technician at CEFET-MG.
-I'm from Curvelo, Minas Gerais in Brazil and I am a C# developer. I look to write codes on a clean and performatic way that facilitate its maintenance and extension. I have knowledge about the Unity game engine libraries, and about its interface's best practices, as well as the operation of its component system. I also own the Facebook page, Instagram and YouTube channel: Idea.ToGame</p>
+<h3> Introduction | Introdução </h3>
+<p> Busco escrever meus códigos almejando uma maior legibilidade, extensibilidade, performance e facilidade de manutenção a longo prazo. Estou sempre atrás de utilizar as melhores práticas e código limpo, que facilitam na produtividade.</p>
 
-<p> 🇧🇷: O meu nome é Filipe Hipólito Diniz Durães, tenho 17 anos e sou estudante do Ensino Médio Técnico Integrado em Eletrotécnica no CEFET-MG.
-Sou de Curvelo, Minas Gerais no Brasil e desenvolvo em C#. Busco escrever meus códigos de maneira limpa e performática que facilite sua manutenção e extensão. Tenho conhecimentos sobre as bibliotecas da engine de jogos Unity, tanto como uma visão geral e melhores práticas da sua interface, assim como o funcionamento do seu sistema de componentes. E também sou proprietário da página do Facebook, Instagram e canal do Youtube: Idea.ToGame</p>
+<h3> C# Coding | Programação em C# </h3>
+<p> POO, LINQ, polymorphism, namespaces, binary operations, logical operations, delegates, events, generic, collections, exceptions, extension methods, serialization, System.IO, operator overloading, interfaces</p>
 
-<hr>
+<h3> Unity Engine </h3>
+<p> Scriptable objects, New Input System, Lighting, Editor, Cinemachine, Physics, Materials and property block, Sprites, Canvas UI, Gizmos, Tool Development, Timeline, Assemby definition, Unit Testing, basic shader graph, basic mesh generation</p>
 
-<h1> 💻 Skills | Habilidades </h1>
+<h3> Other Abilities | Outras Habilidades </h3>
+<p> Princípios: SOLID, DRY e KISS. Versionamento com GIT, Trello, Google Drive, padronização ABNT, pacotes Office.</p>
 
-🇺🇸:
-<ul>
-  <li>C# Development - Intermediate</li>
-  <li>Using Unity Engine Editor Interface</li>
-  <li>Blender 3D modeling - Basic</li>
-  <li>Pixel art drawing and animation - Basic</li>
-  <li>Sony Vegas Pro - Intermediate</li>
-  <li>Adobe Photoshop - Intermediate</li>
-</ul>
-
-
-🇧🇷:
-<ul>	
-	<li> Programação em C# - Intermediário</li>
-	<li>Utilizar a interface do Editor da engine Unity</li>
-	<li>Modelagem 3D do Blender - Básico</li>
-	<li>Desenho e animação de pixel art - Básico</li>
-	<li>Sony Vegas Pro - Intermediário</li>
-	<li>Adobe Photoshop - Intermediário</li>
-</ul>
+<h3> Projeto Idea.ToGame </h3>
+<p> É um conjunto de páginas disponível nas plataformas: YouTube, Facebook, Instagram e Twitter. Possui o objetivo de ensinar assuntos diversos relacionados a Unity, todo o processo de roteirização, gravação, animação, edição de imagem e de vídeo é feito por mim. Para mais informações, vá até a área de contato, onde encontrará todas as plataformas.</p>
 
 <hr>
 
