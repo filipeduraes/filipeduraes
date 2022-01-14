@@ -1,0 +1,197 @@
+:root{  
+    /* S I D E B A R */
+    --sidebar-color-primary: #121212;
+    --sidebar-button-color-primary: #00b894;
+    --sidebar-button-color-secondary: #2d3436;
+    --sidebar-button-hover-color-primary: #6c5ce7;
+    --sidebar-button-hover-color-secondary: #ffeaa7;
+  
+    --sidebar-margin-left: 200px;
+    --sidebar-margin-left-offset: 180px;
+  }
+  
+  .main{
+    margin-left: var(--sidebar-margin-left);
+    padding: 0px 10px;
+  }
+  
+  /*============================== B A S I C ==============================*/
+  body{
+    background-color: #282f31;
+  }
+  
+  h3, p, h1, h2, li{
+    font-family: sans-serif;
+  }
+
+  #title{
+    color: white;
+    text-align: center;
+  }
+
+  #page-title-green{
+    color: rgb(0, 255, 136);
+    text-align: center;
+    display: inline;
+  }
+
+  #page-title-white{
+    color: rgb(230, 230, 230);
+    text-align: center;
+    display: inline;
+  }
+
+  #page-title-blue{
+    color: rgb(0, 225, 255);
+    text-align: center;
+    display: inline;
+  }
+  
+  h3{
+    color: rgb(255, 255, 255, 0.8);
+  }
+  
+  p{
+    color: rgb(255, 255, 255, 0.6);
+  }
+  
+  .header{
+    object-fit: contain;
+    width: 1050px;
+  }
+    
+  .legend{
+    margin-top: -10px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .social{
+    object-fit: contain;
+    width: 90px;
+    color: aqua;
+    padding: 10px 10px;
+    text-decoration: none;
+  }
+  
+  #block-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  #block2{
+    margin-left: 100px;
+  }
+
+  #block1, #block2{
+    display: inline;
+    width: 300px;
+    height: 300px;
+    padding-top: 10px;
+    background-color: var(--sidebar-color-primary);
+    box-shadow: 6px 6px 1em -10px rgb(0, 0, 0, 0.8);
+  }
+
+  /*============================== B U T T O N S ==============================*/
+  .btn{
+    border: none;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background .3s;
+    border-radius: 4px;
+  }
+  
+  .btn-list{
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  
+  .btn-contact{
+    background-color: var(--contact-color-primary);
+    outline: none;
+    color: var(--contact-color-secondary);
+  }
+  
+  .btn-contact:hover{
+    color: var(--contact-color-primary);
+    background-color: var(--contact-color-secondary);
+  }
+  
+  .btn-contact:active{
+    color: var(--contact-color-active-secondary);
+    background-color: var(--contact-color-active-primary);
+  }
+  
+  /*============================== E F F E C T S ==============================*/
+  .zoom {
+    transition: transform .1s; /* Animation */
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+  
+  
+  /*============================== S I D E B A R ==============================*/
+  .sidebar{
+    height: 100%;
+    width: var(--sidebar-margin-left);
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: var(--sidebar-color-primary);
+    overflow-x: hidden;
+    padding-top: 20px;
+    box-shadow: 5px 0px 0.4em rgb(0, 0, 0, 0.5);
+  }
+  
+  .sidebar p{
+    color: white;
+    font-family: sans-serif;
+  }
+  
+  #profile{
+    object-fit: contain;
+    border-radius: 100%;
+    width: var(--sidebar-margin-left-offset);
+    padding-left: 10px;
+  }
+  
+  #sidebar-name{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    font-weight: bold;
+  }
+  
+  .sidebar-btn a{
+    text-decoration: none;
+  }
+  
+  .sidebar-btn li{
+    cursor: pointer;
+    font-weight: bolder;
+    transition: background .3s;
+    transition: margin .3s;
+    margin-left: -20px;
+    margin-bottom: 10px;
+    color: var(--sidebar-button-color-secondary);
+    
+    list-style-type: none;
+    padding: 10px;
+    background-color: var(--sidebar-button-color-primary);
+    border-radius: 3px;
+    box-shadow: -6px 6px 0.5em -10px rgb(0, 0, 0);
+  }
+  
+  .sidebar-btn li:hover{
+    background-color: var(--sidebar-button-hover-color-primary);
+    color: var(--sidebar-button-hover-color-secondary);
+    margin-left: -15px;
+  }
