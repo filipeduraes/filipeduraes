@@ -1,10 +1,10 @@
 :root{ 
   /* S I D E B A R */
-  --sidebar-color-primary: #485460;
-  --sidebar-button-color-primary: #0fbcf9;
-  --sidebar-button-color-secondary: #1e272e;
-  --sidebar-button-hover-color-primary: #05c46b;
-  --sidebar-button-hover-color-secondary: #1e272e;
+  --sidebar-color-primary: #121212;
+  --sidebar-button-color-primary: #00b894;
+  --sidebar-button-color-secondary: #2d3436;
+  --sidebar-button-hover-color-primary: #6c5ce7;
+  --sidebar-button-hover-color-secondary: #ffeaa7;
 
   --sidebar-margin-left: 200px;
   --sidebar-margin-left-offset: 180px;
@@ -17,14 +17,10 @@
 
 /*============================== B A S I C ==============================*/
 body{
-  background-color: #1e272e;
+  background-color: #282f31;
 }
 
-p{
-  font-family: serif;
-}
-
-h1, h2, h3, li{
+p, h1, h2, h3, li{
   font-family: sans-serif;
 }
 
@@ -37,13 +33,13 @@ h1, li{
 }
 
 h3{
-  color: rgb(255, 255, 255, 0.8);
+  color: #dfe6e9;
   margin-bottom: -1%;
   margin-top: 4%;
 }
 
 p{
-  color: rgb(255, 255, 255, 0.5);
+  color: #b2bec3;
   margin-left: 10px;
 }
 
