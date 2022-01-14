@@ -111,6 +111,13 @@ p{
   color: white;
 }
 
+.sidebar img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
 #profile{
   object-fit: contain;
   border-radius: 100%;
