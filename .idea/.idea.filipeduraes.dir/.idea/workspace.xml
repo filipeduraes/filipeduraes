@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7904f4b-2048-490a-a350-9bab5b75f3c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Portfolio_English/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_English/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio_English/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_English/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_English/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_English/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
@@ -22,6 +24,8 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Portfolio_English/index.html" />
+        <option value="$PROJECT_DIR$/Portfolio_English/projects.html" />
+        <option value="$PROJECT_DIR$/Portfolio_English/contact.html" />
       </list>
     </option>
   </component>
@@ -47,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650279587804</updated>
-      <workItem from="1650279612949" duration="841000" />
+      <workItem from="1650279612949" duration="1090000" />
     </task>
     <servers />
   </component>
