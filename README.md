@@ -35,7 +35,7 @@
 <h1> 🛠️ Projects </h1>
 
 <h3>Go Island</h3>
-<a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="https://scontent.cdninstagram.com/v/t51.2885-15/394278252_645222041076756_4197385767006294760_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi45OTl4OTk5LnNkciJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=zWpZ6UxzkGQAX-yI7hv&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzIyMDAyNTc1OTMxNjY1ODUyNQ%3D%3D.2-ccb7-5&oh=00_AfB9EGAhx5Y2EcZ9sTWwU0uWsQPpXx3u8OnuqStPw28Urw&oe=65974AA8&_nc_sid=10d13b"/></a>
+<a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="https://scontent.cdninstagram.com/v/t51.2885-15/394278252_645222041076756_4197385767006294760_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi45OTl4OTk5LnNkciJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=zWpZ6UxzkGQAX-yI7hv&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzIyMDAyNTc1OTMxNjY1ODUyNQ%3D%3D.2-ccb7-5&oh=00_AfB9EGAhx5Y2EcZ9sTWwU0uWsQPpXx3u8OnuqStPw28Urw&oe=65974AA8&_nc_sid=10d13b" height = "300"/></a>
 
 <h3>The Walking Dead: Destinies</h3>
 <a href="https://www.twddestinies.com"><img src="https://www.twddestinies.com/wp-content/webp-express/webp-images/uploads/2023/06/WDD_HeroArt_3840x2160.jpg.webp" height = "300"/></a>
