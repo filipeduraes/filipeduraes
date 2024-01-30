@@ -35,7 +35,7 @@
 <h1> 🛠️ Projects </h1>
 
 <h3>Go Island</h3>
-<a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="https://scontent.cdninstagram.com/v/t51.2885-15/394278252_645222041076756_4197385767006294760_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi45OTl4OTk5LnNkciJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=zWpZ6UxzkGQAX-yI7hv&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzIyMDAyNTc1OTMxNjY1ODUyNQ%3D%3D.2-ccb7-5&oh=00_AfB9EGAhx5Y2EcZ9sTWwU0uWsQPpXx3u8OnuqStPw28Urw&oe=65974AA8&_nc_sid=10d13b" height = "300"/></a>
+<a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/images/GoIsland_Preview.jpg" height = "300"/></a>
 
 <h3>The Walking Dead: Destinies</h3>
 <a href="https://www.twddestinies.com"><img src="https://github.com/filipeduraes/filipeduraes/blob/main/images/TWD_Preview.gif?raw=true" height = "300"/></a>
@@ -44,7 +44,7 @@
 <a href="https://store.steampowered.com/app/1413660/Elderand/"><img src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/images/Elderand_Preview.gif" height = "300"/></a>
 
 <h3>King's Feast</h3>
-<a href="https://drive.google.com/file/d/1h603x9aE8cpDxhTV6BQ6bw8gn522cpky/view?usp=sharing"><img src="https://media.licdn.com/dms/image/D4D2DAQGr3s-AK_GJwg/profile-treasury-image-shrink_800_800/0/1684437431867?e=1704841200&v=beta&t=zMsEQctyniGynTYoLP7arjtR_unhSGB8APOJhC1SS20" height = "300"/></a>
+<a href="https://drive.google.com/file/d/1h603x9aE8cpDxhTV6BQ6bw8gn522cpky/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1XcdGy-ifoRLFHzr8xkS0YerxeL4fn36u" height = "300"/></a>
 
 <h3>Space Shooter</h3>
 <a href="https://play.unity.com/mg/other/generic-space-shooter"><img src="https://play-static.unity.com/20230606/p/images/db6a88a8-97b2-4713-9f64-49b5c0654068_image_2023_06_06_021718560.png" height = "300"/></a>
