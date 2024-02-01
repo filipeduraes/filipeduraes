@@ -1,7 +1,7 @@
 [![Header](https://github.com/filipeduraes/filipeduraes/blob/main/images/Header_GithubReadme.png "Header")](https://www.linkedin.com/in/filipeduraes/)
 
 <h1> 👋 Summary </h1>
-<p> Experienced Unity game developer with a strong background in C# development and code architecture. Committed to delivering exceptional software solutions that are highly testable, maintainable, uncoupled, and extensible. Which makes me a big enthusiast of Test-Driven Development. Dedicated to assisting others in their growth journey, I actively contribute to the game development community through my YouTube channel, Idea.ToGame, where I share advanced topics on programming and game development.</p>
+<p>Experienced game developer with a strong background in C# and C++ development and project architecture. Committed to delivering exceptional software solutions that are highly testable, maintainable, uncoupled, and extensible. A constant learner driven by a passion for continuous improvement, always seeking to expand my knowledge and skill set.</p>
 
 <hr>
 
