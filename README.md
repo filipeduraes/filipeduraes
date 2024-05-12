@@ -41,10 +41,10 @@
 <a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/images/GoIsland_Preview.jpg" height = "300"/></a>
 
 <h3>The Walking Dead: Destinies</h3>
-<a href="https://www.twddestinies.com"><img src="https://github.com/filipeduraes/filipeduraes/blob/main/images/TWD_Preview.gif?raw=true" height = "300"/></a>
+<a href="https://www.twddestinies.com"><img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000065762/7b6cb0dbda0f8d2173b65720d3520a93f75080a756ea7e7d4ad364afb11505f8" height = "300"/></a>
 
 <h3>Elderand</h3>
-<a href="https://store.steampowered.com/app/1413660/Elderand/"><img src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/images/Elderand_Preview.gif" height = "300"/></a>
+<a href="https://store.steampowered.com/app/1413660/Elderand/"><img src="https://cdn1.epicgames.com/spt-assets/0e168f0bdd2d4ee79113ec5dead2ce72/elderand-r6ddk.jpg" height = "300"/></a>
 
 <h3>King's Feast</h3>
 <a href="https://drive.google.com/file/d/1h603x9aE8cpDxhTV6BQ6bw8gn522cpky/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1XcdGy-ifoRLFHzr8xkS0YerxeL4fn36u" height = "300"/></a>
