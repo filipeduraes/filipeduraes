@@ -34,6 +34,9 @@
 
 <h1> 🛠️ Projects </h1>
 
+<h3>Wardens Rising</h3>
+<a href="https://store.steampowered.com/app/1055560/Wardens_Rising/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953" height = "300"/></a>
+
 <h3>Go Island</h3>
 <a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/images/GoIsland_Preview.jpg" height = "300"/></a>
 
