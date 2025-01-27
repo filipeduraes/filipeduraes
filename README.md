@@ -1,14 +1,14 @@
-[![Header](https://github.com/filipeduraes/filipeduraes/blob/main/images/Header_GithubReadme.png "Header")](https://www.linkedin.com/in/filipeduraes/)
+[![Header](https://media.licdn.com/dms/image/v2/D4D16AQHnlGICyUY0Rg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706400386678?e=1743638400&v=beta&t=EGKOg3VH_cWcO6bK-XrOTi6YGjiCGdMRYGh8PUWZJ7g "Header")](https://www.linkedin.com/in/filipeduraes/)
 
 <h1> 👋 Summary </h1>
-<p>Experienced game developer with a strong background in C# and C++ development and project architecture. Committed to delivering exceptional software solutions that are highly testable, maintainable, uncoupled, and extensible. A constant learner driven by a passion for continuous improvement, always seeking to expand my knowledge and skill set.</p>
+<p>Experienced Game Engineer passionate about solving complex problems and building scalable, high-performance systems. Experienced in Game AI development, multiplayer programming, and gameplay mechanics, with a solid background in C++ and C#. I enjoy creating efficient, maintainable solutions that enhance player experiences and contribute to successful projects. Always learning and evolving, I’m driven to tackle challenges and push technical boundaries.</p>
 
 <hr>
 
 <h1> 🔗 Links </h1>
 <ul>
 	<li><a href="https://linkedin.com/in/filipeduraes">Linkedin</a></li>
-	<li><a href="https://docs.google.com/document/d/1OKDtC-3HZkMl0UDSecgIhoPy1KSJlCXn/edit?usp=sharing&ouid=110463737715910575626&rtpof=true&sd=true">Resume</a></li>
+	<li><a href="https://drive.google.com/file/d/1k_sis3aYEnxi4GM7l30I-DrPyI5p1RkQ/view?usp=sharing">Resume</a></li>
 	<li><a href="mailto:filipehdduraes@gmail.com">Email</a></li>
 	<li><a href="https://www.instagram.com/idea.togame">Instagram</a></li>
     	<li><a href="https://facebook.com/idea.togame">Facebook</a></li>
