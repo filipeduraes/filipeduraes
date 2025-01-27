@@ -18,14 +18,12 @@
 <hr>
 
 <h1> 🎮 Skills </h1>
-<h3> Game Development </h3>
-<p> C# – C++ – Unity Engine – Unreal Engine – Clean code and architecture – Unit Tests – Test Driven Development – Strong physics and 3D math – Custom Editor Tools – Inverse Kinematics – Data Structures – Debugging and Profiler – Animator – Memory Allocation</p>
-
-<h3> Packages </h3>
-<p> Addressables (Asset loading and memory management) – Node Canvas (Behavior Trees and State Machines) – Cinemachine (Camera) – CySharp (High perfomant async library) – I2 Localization (Game Translation) – Timeline (custom tracks and clips) – UI Toolkit</p>
-
-<h3> Project Management Tools and Frameworks </h3>
-<p> Version Control (GIT, Plastic SCM, BitBucket) – SCRUM – Agile – Kanban – Board Tools (Clickup, Trello, Jira)</p>
+<ul>
+	<li><b>Tools:</b> C++, C#, Unreal Engine, Unity Engine, Blueprint.</li>
+	<li><b>Multiplayer Programming:</b> Design and implementation of multiplayer systems, synchronization, and session management.</li>
+	<li><b>Game AI:</b> AI behaviors with finite state machines, behavior trees, steering behavior, fuzzy logic, and pathfinding.</li>
+	<li><b>General Skills:</b> UI Architecture, MVVM, Clean Architecture, procedural content generation, memory management, unit testing, custom editor tools.</li>
+</ul>
 
 <h3> Idea.ToGame project </h3>
 <p> It is a set of pages available on the following platforms: YouTube, Facebook, Instagram and Twitter. It aims to teach various subjects related to Unity, the whole process of scripting, recording, animation, image and video editing is done by me. For more information, go to the contact area, where you will find all the platforms.</p>
