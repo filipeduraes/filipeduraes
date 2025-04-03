@@ -1,4 +1,4 @@
-[![Header](https://media.licdn.com/dms/image/v2/D4D16AQHnlGICyUY0Rg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706400386678?e=1743638400&v=beta&t=EGKOg3VH_cWcO6bK-XrOTi6YGjiCGdMRYGh8PUWZJ7g "Header")](https://www.linkedin.com/in/filipeduraes/)
+[![Header](https://github.com/filipeduraes/filipeduraes/blob/main/images/FilipeDuraes_Header.jpeg "Header")](https://www.linkedin.com/in/filipeduraes/)
 
 <h1> 👋 Summary </h1>
 <p>Experienced Game Engineer passionate about solving complex problems and building scalable, high-performance systems. Experienced in Game AI development, multiplayer programming, and gameplay mechanics, with a solid background in C++ and C#. I enjoy creating efficient, maintainable solutions that enhance player experiences and contribute to successful projects. Always learning and evolving, I’m driven to tackle challenges and push technical boundaries.</p>
