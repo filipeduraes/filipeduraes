@@ -32,6 +32,9 @@
 
 <h1> 🛠️ Projects </h1>
 
+<h3>ExoGP</h3>
+<a href="https://store.epicgames.com/pt-BR/p/exogp-af73bc"><img src="https://cdn1.epicgames.com/spt-assets/986d6cd774a048388c37f43f654098cf/exogp-ibql6.png" height = "300"/></a>
+
 <h3>Wardens Rising</h3>
 <a href="https://store.steampowered.com/app/1055560/Wardens_Rising/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953" height = "300"/></a>
 
