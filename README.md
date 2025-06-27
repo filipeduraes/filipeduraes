@@ -19,10 +19,12 @@
 
 <h1> 🎮 Skills </h1>
 <ul>
-	<li><b>Tools:</b> C++, C#, Unreal Engine, Unity Engine, Blueprint.</li>
-	<li><b>Multiplayer Programming:</b> Design and implementation of multiplayer systems, synchronization, and session management.</li>
-	<li><b>Game AI:</b> AI behaviors with finite state machines, behavior trees, steering behavior, fuzzy logic, and pathfinding.</li>
-	<li><b>General Skills:</b> UI Architecture, MVVM, Clean Architecture, procedural content generation, memory management, unit testing, custom editor tools.</li>
+	<li><b>Programming Languages:</b> C++, C#, Blueprint Game Engines & Tools: Unreal Engine (UE4/UE5, Gameplay Ability System, Common UI, Enhanced Input), Unity Engine (URP, Addressables, Scriptable Objects, Custom Tools)</li>
+	<li><b>Multiplayer Systems:</b> Deterministic multiplayer with Photon Quantum, replication and session management in Unreal, backend integration with PlayFab and Azure, Steam networking features</li>
+	<li><b>Gameplay & Architecture:</b> MVVM, Clean Architecture, modular UI systems, data-driven design, custom editor tools</li>
+	<li><b>Game AI:</b> Behavior Trees, Finite State Machines, A* Pathfinding, Steering Behaviors, Fuzzy Logic</li>
+	<li><b>Performance & Optimization:</b> Memory management, asynchronous programming, object pooling, frame-time profiling, legacy code refactoring</li>
+	<li><b>Miscellaneous:</b> Procedural content generation, unit testing, cross-platform development</li>
 </ul>
 
 <h3> Idea.ToGame project </h3>
