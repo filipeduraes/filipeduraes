@@ -41,7 +41,7 @@
 <a href="https://store.steampowered.com/app/1055560/Wardens_Rising/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953" height = "300"/></a>
 
 <h3>Go Island</h3>
-<a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="https://raw.githubusercontent.com/filipeduraes/filipeduraes/main/images/GoIsland_Preview.jpg" height = "300"/></a>
+<a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="./images/GoIsland_Preview.jpg" height = "300"/></a>
 
 <h3>The Walking Dead: Destinies</h3>
 <a href="https://www.twddestinies.com"><img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000065762/7b6cb0dbda0f8d2173b65720d3520a93f75080a756ea7e7d4ad364afb11505f8" height = "300"/></a>
