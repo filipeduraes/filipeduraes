@@ -1,13 +1,14 @@
 namespace FilipeDuraes_Portfolio.Models;
 
+public record ExperienceProject(string Label, string Link, string Image);
+
 public record ExperienceItem(
     string Company,
     string Role,
     string Period,
     string Tag,
     string Project,
-    string? Link,
-    string? Image,
+    IReadOnlyList<ExperienceProject> Projects,
     IReadOnlyList<string> Bullets);
 
 public record SkillGroup(string Label, IReadOnlyList<string> Items);

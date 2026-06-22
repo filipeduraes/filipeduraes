@@ -35,22 +35,21 @@
                     @if (open)
                     {
                         <div class="exp-body d-flex flex-column gap-3">
-                            @if (job.Image is not null || job.Link is not null)
+                            @if (job.Projects.Count > 0)
                             {
-                                <div class="d-flex align-items-start gap-3">
-                                    @if (job.Image is not null)
+                                <div class="exp-projects d-flex flex-wrap gap-3">
+                                    @foreach (var project in job.Projects)
                                     {
-                                        <a href="@(job.Link ?? "#")" target="_blank" rel="noopener noreferrer" class="exp-image-link">
-                                            <img src="@job.Image" alt="@job.Project" />
-                                        </a>
-                                    }
-                                    @if (job.Link is not null)
-                                    {
-                                        <a href="@job.Link" target="_blank" rel="noopener noreferrer"
-                                           class="exp-project-link d-flex align-items-center gap-1">
-                                            <i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i>
-                                            @job.Project
-                                        </a>
+                                        <div class="exp-project-card d-flex flex-column gap-2">
+                                            <a href="@project.Link" target="_blank" rel="noopener noreferrer" class="exp-image-link">
+                                                <img src="@project.Image" alt="@project.Label" />
+                                            </a>
+                                            <a href="@project.Link" target="_blank" rel="noopener noreferrer"
+                                               class="exp-project-link d-flex align-items-center gap-1">
+                                                <i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i>
+                                                @project.Label
+                                            </a>
+                                        </div>
                                     }
                                 </div>
                             }

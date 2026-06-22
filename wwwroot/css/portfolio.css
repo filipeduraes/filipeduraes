@@ -358,6 +358,14 @@
     }
 }
 
+.exp-projects {
+    align-items: flex-start;
+}
+
+.exp-project-card {
+    max-width: 160px;
+}
+
 .exp-image-link {
     width: 160px;
     height: 75px;

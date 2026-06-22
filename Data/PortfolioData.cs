@@ -15,8 +15,12 @@ public static class PortfolioData
                     "Jan 2026 — Present",
                     "AAA · Live-Service",
                     "The Sims",
-                    "https://www.ea.com/games/the-sims",
-                    null,
+                    [
+                        new(
+                            "The Sims",
+                            "https://www.ea.com/games/the-sims",
+                            "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg"),
+                    ],
                     [
                         "Contributing to The Sims as part of a Globant outsourcing team supporting Electronic Arts (EA).",
                         "Developing gameplay features using Python, C++, and data-driven tuning systems within a large-scale proprietary AAA engine.",
@@ -28,8 +32,16 @@ public static class PortfolioData
                     "Mar 2024 — Dec 2025",
                     "Unreal Engine 5",
                     "Wardens Rising / Exo GP",
-                    "https://www.bigmoxigames.com",
-                    null,
+                    [
+                        new(
+                            "Exo GP",
+                            "https://planetatmos.com/exogp/",
+                            "https://cdn1.epicgames.com/spt-assets/986d6cd774a048388c37f43f654098cf/exogp-ibql6.png"),
+                        new(
+                            "Wardens Rising",
+                            "https://wardensrising.com",
+                            "https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953"),
+                    ],
                     [
                         "Optimized large-scale enemy horde AI in Wardens Rising, reducing frame time by 20% in real-time combat.",
                         "Implemented gameplay abilities and attacks using Unreal Gameplay Ability System (GAS).",
@@ -42,8 +54,7 @@ public static class PortfolioData
                     "Nov 2023 — Feb 2024",
                     "Multiplayer · Photon Quantum",
                     "Competitive Multiplayer",
-                    null,
-                    null,
+                    [],
                     [
                         "Designed and implemented deterministic multiplayer using Photon Quantum for frame-accurate sync.",
                         "Integrated PlayFab and Azure backend services with runtime asset management for cross-platform compatibility.",
@@ -55,8 +66,12 @@ public static class PortfolioData
                     "Nov 2022 — Nov 2023",
                     "Licensed IP · 6 Platforms",
                     "The Walking Dead: Destinies",
-                    "https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/",
-                    "https://cdn.cloudflare.steamstatic.com/steam/apps/2192790/header.jpg",
+                    [
+                        new(
+                            "The Walking Dead: Destinies",
+                            "https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/",
+                            "https://cdn.cloudflare.steamstatic.com/steam/apps/2192790/header.jpg"),
+                    ],
                     [
                         "Developed and shipped modular gameplay systems for The Walking Dead: Destinies (GameMill Entertainment) across 6 platforms.",
                         "Implemented complex branching quest flows and multi-phase boss fights.",
@@ -68,8 +83,12 @@ public static class PortfolioData
                     "Dec 2021 — Mar 2023",
                     "Metroidvania · PC/Console/Mobile",
                     "Elderand",
-                    "https://store.steampowered.com/app/1413660/Elderand/",
-                    "https://cdn.cloudflare.steamstatic.com/steam/apps/1413660/header.jpg",
+                    [
+                        new(
+                            "Elderand",
+                            "https://store.steampowered.com/app/1413660/Elderand/",
+                            "https://cdn.cloudflare.steamstatic.com/steam/apps/1413660/header.jpg"),
+                    ],
                     [
                         "Shipped Elderand, a Metroidvania released on PC, consoles, and mobile with 75K+ units sold.",
                         "Re-architected core game systems — significantly reduced critical bug resolution time.",
@@ -83,8 +102,7 @@ public static class PortfolioData
                     "Jun 2021 — Aug 2021",
                     "Mobile · Performance",
                     "Mobile Game",
-                    null,
-                    null,
+                    [],
                     [
                         "Developed core gameplay features optimizing mobile builds with Object Pooling for memory management.",
                     ]),
@@ -97,8 +115,12 @@ public static class PortfolioData
                     "Jan 2026 — Presente",
                     "AAA · Live-Service",
                     "The Sims",
-                    "https://www.ea.com/games/the-sims",
-                    null,
+                    [
+                        new(
+                            "The Sims",
+                            "https://www.ea.com/games/the-sims",
+                            "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg"),
+                    ],
                     [
                         "Contribuindo para The Sims como parte do time de outsourcing da Globant apoiando a Electronic Arts (EA).",
                         "Desenvolvendo features de gameplay usando Python, C++ e sistemas de tuning data-driven em uma engine AAA proprietária.",
@@ -110,8 +132,16 @@ public static class PortfolioData
                     "Mar 2024 — Dez 2025",
                     "Unreal Engine 5",
                     "Wardens Rising / Exo GP",
-                    "https://www.bigmoxigames.com",
-                    null,
+                    [
+                        new(
+                            "Exo GP",
+                            "https://planetatmos.com/exogp/",
+                            "https://cdn1.epicgames.com/spt-assets/986d6cd774a048388c37f43f654098cf/exogp-ibql6.png"),
+                        new(
+                            "Wardens Rising",
+                            "https://wardensrising.com",
+                            "https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953"),
+                    ],
                     [
                         "Otimizei IA de hordas em Wardens Rising, reduzindo frame time em 20% em combate em tempo real.",
                         "Implementei abilities e ataques de personagens com Unreal Gameplay Ability System (GAS).",
@@ -124,8 +154,7 @@ public static class PortfolioData
                     "Nov 2023 — Fev 2024",
                     "Multiplayer · Photon Quantum",
                     "Multiplayer Competitivo",
-                    null,
-                    null,
+                    [],
                     [
                         "Projetei e implementei multiplayer determinístico com Photon Quantum para sincronização frame-accurate.",
                         "Integrei PlayFab e Azure com gerenciamento de assets em runtime para compatibilidade cross-platform.",
@@ -137,8 +166,12 @@ public static class PortfolioData
                     "Nov 2022 — Nov 2023",
                     "IP Licenciada · 6 Plataformas",
                     "The Walking Dead: Destinies",
-                    "https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/",
-                    "https://cdn.cloudflare.steamstatic.com/steam/apps/2192790/header.jpg",
+                    [
+                        new(
+                            "The Walking Dead: Destinies",
+                            "https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/",
+                            "https://cdn.cloudflare.steamstatic.com/steam/apps/2192790/header.jpg"),
+                    ],
                     [
                         "Desenvolvi sistemas de gameplay modulares para The Walking Dead: Destinies (GameMill Entertainment) em 6 plataformas.",
                         "Implementei fluxos de quest com ramificações e boss fights multi-fase.",
@@ -150,8 +183,12 @@ public static class PortfolioData
                     "Dez 2021 — Mar 2023",
                     "Metroidvania · PC/Console/Mobile",
                     "Elderand",
-                    "https://store.steampowered.com/app/1413660/Elderand/",
-                    "https://cdn.cloudflare.steamstatic.com/steam/apps/1413660/header.jpg",
+                    [
+                        new(
+                            "Elderand",
+                            "https://store.steampowered.com/app/1413660/Elderand/",
+                            "https://cdn.cloudflare.steamstatic.com/steam/apps/1413660/header.jpg"),
+                    ],
                     [
                         "Lancei Elderand em PC, consoles e mobile com 75K+ unidades vendidas.",
                         "Rearquitetei sistemas centrais do jogo, reduzindo o tempo de resolução de bugs críticos.",
@@ -165,8 +202,7 @@ public static class PortfolioData
                     "Jun 2021 — Ago 2021",
                     "Mobile · Performance",
                     "Mobile Game",
-                    null,
-                    null,
+                    [],
                     [
                         "Desenvolvi features de gameplay otimizando builds mobile com Object Pooling para gerenciamento de memória.",
                     ]),
