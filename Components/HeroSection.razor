@@ -1,0 +1,48 @@
+<section id="about" class="hero-section">
+    <div class="hero-inner container-fluid mx-auto">
+        <div class="d-flex flex-column gap-4" style="max-width: 42rem;">
+            <p class="hero-greeting mb-0">@Hero.Greeting</p>
+
+            <div>
+                <h1 class="hero-name-light mb-0">FILIPE</h1>
+                <h1 class="hero-name-rose mb-0">DURÃES</h1>
+            </div>
+
+            <p class="hero-role mb-0">@Hero.Role · @Hero.Engines</p>
+
+            <p class="hero-summary mb-0">@Hero.Summary</p>
+
+            <div class="d-flex flex-wrap gap-2 pt-1">
+                <button type="button" class="btn-portfolio-primary" @onclick='() => OnScrollTo.InvokeAsync("experience")'>
+                    @Hero.Cta1
+                </button>
+                <button type="button" class="btn-portfolio-outline" @onclick='() => OnScrollTo.InvokeAsync("contact")'>
+                    @Hero.Cta2
+                </button>
+            </div>
+
+            <div class="hero-social d-flex align-items-center gap-4 pt-1">
+                <a href="https://github.com/filipeduraes" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                    <i class="bi bi-github"></i>
+                </a>
+                <a href="https://linkedin.com/in/filipeduraes" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                    <i class="bi bi-linkedin"></i>
+                </a>
+                <a href="mailto:filipehdduraes@gmail.com" aria-label="Email">
+                    <i class="bi bi-envelope"></i>
+                </a>
+                <a href="https://www.youtube.com/@@IdeaToGame" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+                    <i class="bi bi-youtube"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+@code {
+    [Parameter, EditorRequired]
+    public Models.HeroContent Hero { get; set; } = default!;
+
+    [Parameter]
+    public EventCallback<string> OnScrollTo { get; set; }
+}

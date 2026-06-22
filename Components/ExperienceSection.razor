@@ -1,0 +1,93 @@
+<section id="experience" class="portfolio-section">
+    <div class="portfolio-container">
+        <SectionLabel Label="@Title" />
+        <div class="mt-4 d-flex flex-column gap-2">
+            @for (var i = 0; i < Jobs.Count; i++)
+            {
+                var index = i;
+                var job = Jobs[index];
+                var open = ActiveIndex == index;
+
+                <div class="exp-item @(open ? "open" : "")">
+                    <div class="exp-header d-flex flex-column flex-sm-row align-items-sm-center justify-content-between gap-3"
+                         @onclick="() => Toggle(index)">
+                        <div class="d-flex align-items-center gap-3">
+                            <div class="exp-accent-bar d-none d-sm-block"></div>
+                            <div>
+                                <div class="d-flex align-items-center gap-2 flex-wrap">
+                                    <span class="exp-company">@job.Company</span>
+                                    <span class="exp-tag">@job.Tag</span>
+                                </div>
+                                <div class="exp-meta mt-1 d-flex align-items-center gap-2">
+                                    <span>@job.Role</span>
+                                    <span>·</span>
+                                    <span class="exp-period">@job.Period</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="d-flex align-items-center gap-3">
+                            <span class="exp-project d-none d-sm-block">@job.Project</span>
+                            <i class="bi bi-chevron-right exp-chevron"></i>
+                        </div>
+                    </div>
+
+                    @if (open)
+                    {
+                        <div class="exp-body d-flex flex-column gap-3">
+                            @if (job.Image is not null || job.Link is not null)
+                            {
+                                <div class="d-flex align-items-start gap-3">
+                                    @if (job.Image is not null)
+                                    {
+                                        <a href="@(job.Link ?? "#")" target="_blank" rel="noopener noreferrer" class="exp-image-link">
+                                            <img src="@job.Image" alt="@job.Project" />
+                                        </a>
+                                    }
+                                    @if (job.Link is not null)
+                                    {
+                                        <a href="@job.Link" target="_blank" rel="noopener noreferrer"
+                                           class="exp-project-link d-flex align-items-center gap-1">
+                                            <i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i>
+                                            @job.Project
+                                        </a>
+                                    }
+                                </div>
+                            }
+
+                            <div class="d-flex flex-column gap-2">
+                                @foreach (var bullet in job.Bullets)
+                                {
+                                    <div class="exp-bullet d-flex gap-3">
+                                        <span class="exp-bullet-mark">›</span>
+                                        <span>@bullet</span>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+@code {
+    [Parameter, EditorRequired]
+    public string Title { get; set; } = "";
+
+    [Parameter, EditorRequired]
+    public IReadOnlyList<Models.ExperienceItem> Jobs { get; set; } = [];
+
+    [Parameter]
+    public int? ActiveIndex { get; set; }
+
+    [Parameter]
+    public EventCallback<int?> ActiveIndexChanged { get; set; }
+
+    private async Task Toggle(int index)
+    {
+        var next = ActiveIndex == index ? (int?)null : index;
+        await ActiveIndexChanged.InvokeAsync(next);
+    }
+}

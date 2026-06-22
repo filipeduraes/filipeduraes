@@ -1,0 +1,44 @@
+<section id="education" class="portfolio-section">
+    <div class="portfolio-container">
+        <SectionLabel Label="@Edu.Title" />
+        <div class="mt-4 row g-3">
+            <div class="col-md-6">
+                <div class="edu-card">
+                    <span class="edu-label">@Edu.Period</span>
+                    <h3 class="edu-degree">@Edu.Degree</h3>
+                    <p class="edu-university mb-0">@Edu.University</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="edu-card">
+                    <span class="edu-label">@Edu.CommunityLabel</span>
+                    <div class="d-flex flex-column gap-3">
+                        @foreach (var activity in Edu.Activities)
+                        {
+                            <div class="edu-activity d-flex gap-3">
+                                <span class="edu-activity-mark">›</span>
+                                @if (activity.Link is not null)
+                                {
+                                    <a href="@activity.Link" target="_blank" rel="noopener noreferrer"
+                                       class="d-flex align-items-center gap-1">
+                                        @activity.Text
+                                        <i class="bi bi-box-arrow-up-right" style="font-size: 0.7rem; opacity: 0.6;"></i>
+                                    </a>
+                                }
+                                else
+                                {
+                                    <span>@activity.Text</span>
+                                }
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@code {
+    [Parameter, EditorRequired]
+    public Models.EducationContent Edu { get; set; } = default!;
+}

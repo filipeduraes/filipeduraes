@@ -1,0 +1,29 @@
+<section id="skills" class="portfolio-section">
+    <div class="portfolio-container">
+        <SectionLabel Label="@Title" />
+        <div class="mt-4 row g-3">
+            @foreach (var group in SkillGroups)
+            {
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="skill-card">
+                        <p class="skill-group-label mb-0">@group.Label</p>
+                        <div class="d-flex flex-wrap gap-2">
+                            @foreach (var item in group.Items)
+                            {
+                                <span class="skill-tag">@item</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+@code {
+    [Parameter, EditorRequired]
+    public string Title { get; set; } = "";
+
+    [Parameter, EditorRequired]
+    public IReadOnlyList<Models.SkillGroup> SkillGroups { get; set; } = [];
+}

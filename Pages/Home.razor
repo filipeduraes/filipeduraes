@@ -1,0 +1,59 @@
+﻿@page "/"
+@inject IJSRuntime JS
+
+<PageTitle>Filipe Durães — Game Engineer</PageTitle>
+
+<div class="portfolio-page">
+    <PortfolioNav Lang="@_lang"
+                  Copy="@_copy"
+                  MenuOpen="@_menuOpen"
+                  Scrolled="@_scrolled"
+                  OnToggleLanguage="ToggleLanguage"
+                  MenuOpenChanged="OnMenuOpenChanged"
+                  ScrolledChanged="OnScrolledChanged" />
+
+    <HeroSection Hero="@_copy.Hero" OnScrollTo="ScrollTo" />
+    <ExperienceSection Title="@_copy.ExpTitle"
+                       Jobs="@_jobs"
+                       ActiveIndex="@_activeExp"
+                       ActiveIndexChanged="OnActiveExpChanged" />
+    <SkillsSection Title="@_copy.SkillsTitle" SkillGroups="@_copy.SkillGroups" />
+    <EducationSection Edu="@_copy.Edu" />
+    <ContactSection Contact="@_copy.Contact" />
+    <PortfolioFooter Footer="@_copy.Footer" />
+</div>
+
+@code {
+    private string _lang = "en";
+    private bool _menuOpen;
+    private bool _scrolled;
+    private int? _activeExp;
+
+    private Models.PortfolioCopy _copy => Data.PortfolioData.Translations[_lang];
+    private IReadOnlyList<Models.ExperienceItem> _jobs => Data.PortfolioData.ExperienceItems[_lang];
+
+    private void ToggleLanguage() => _lang = _lang == "en" ? "pt" : "en";
+
+    private Task OnMenuOpenChanged(bool open)
+    {
+        _menuOpen = open;
+        return Task.CompletedTask;
+    }
+
+    private Task OnScrolledChanged(bool scrolled)
+    {
+        _scrolled = scrolled;
+        return Task.CompletedTask;
+    }
+
+    private Task OnActiveExpChanged(int? index)
+    {
+        _activeExp = index;
+        return Task.CompletedTask;
+    }
+
+    private async Task ScrollTo(string id)
+    {
+        await JS.InvokeVoidAsync("portfolio.scrollTo", id);
+    }
+}

@@ -1,0 +1,560 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+    --portfolio-bg: #09090f;
+    --portfolio-fg: #cccce0;
+    --portfolio-rose: #e8608a;
+    --portfolio-rose-dim: rgba(232, 96, 138, 0.1);
+    --portfolio-rose-border: rgba(232, 96, 138, 0.2);
+    --portfolio-rose-glow: rgba(232, 96, 138, 0.22);
+    --portfolio-card: #0e0e18;
+    --portfolio-muted: #55556e;
+    --portfolio-muted-light: #7070a0;
+    --portfolio-heading: #e8e8f8;
+    --portfolio-border-subtle: rgba(232, 96, 138, 0.06);
+    --portfolio-border-faint: rgba(232, 96, 138, 0.08);
+    --portfolio-font-body: 'Inter', sans-serif;
+    --portfolio-font-display: 'Orbitron', sans-serif;
+    --portfolio-font-mono: 'JetBrains Mono', monospace;
+    --portfolio-font-accent: 'Rajdhani', sans-serif;
+}
+
+.portfolio-page {
+    min-height: 100vh;
+    background-color: var(--portfolio-bg);
+    color: var(--portfolio-fg);
+    font-family: var(--portfolio-font-body);
+}
+
+.portfolio-page a:not(.btn-portfolio-primary):not(.btn-portfolio-outline):not(.exp-image-link):not(.exp-project-link):not(.portfolio-nav-icon) {
+    text-decoration: none;
+}
+
+.portfolio-page button.portfolio-logo,
+.portfolio-page button.portfolio-nav-link,
+.portfolio-page button.portfolio-mobile-toggle {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+/* ── Nav ─────────────────────────────────────────────────────────── */
+
+.portfolio-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1050;
+    transition: background 0.3s, backdrop-filter 0.3s, border-color 0.3s;
+    border-bottom: 1px solid transparent;
+}
+
+.portfolio-nav.scrolled {
+    background: rgba(9, 9, 15, 0.88);
+    backdrop-filter: blur(20px);
+    border-bottom-color: var(--portfolio-border-faint);
+}
+
+.portfolio-nav-inner {
+    max-width: 64rem;
+    height: 4rem;
+}
+
+.portfolio-logo {
+    font-family: var(--portfolio-font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: var(--portfolio-rose);
+}
+
+.portfolio-nav-link {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--portfolio-muted);
+    transition: color 0.2s;
+}
+
+.portfolio-nav-link:hover {
+    color: var(--portfolio-fg);
+}
+
+.portfolio-nav-icon {
+    color: var(--portfolio-muted);
+    transition: color 0.2s;
+}
+
+.portfolio-nav-icon:hover {
+    color: var(--portfolio-rose);
+}
+
+.portfolio-lang-btn {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    padding: 0.375rem 0.75rem;
+    color: var(--portfolio-rose);
+    border: 1px solid var(--portfolio-rose-border);
+    background: transparent;
+    transition: background 0.2s;
+}
+
+.portfolio-lang-btn:hover {
+    background: var(--portfolio-rose-dim);
+}
+
+.portfolio-mobile-toggle {
+    color: var(--portfolio-fg);
+}
+
+.portfolio-mobile-menu {
+    background: rgba(9, 9, 15, 0.98);
+    border-bottom: 1px solid var(--portfolio-border-faint);
+    padding: 0.5rem 1.5rem 1.5rem;
+}
+
+.portfolio-mobile-menu .portfolio-nav-link {
+    color: var(--portfolio-fg);
+    text-align: left;
+}
+
+/* ── Section label ───────────────────────────────────────────────── */
+
+.section-label {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.section-label-line {
+    width: 1.5rem;
+    height: 1px;
+    background: var(--portfolio-rose);
+    flex-shrink: 0;
+}
+
+.section-label-text {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--portfolio-rose);
+    white-space: nowrap;
+}
+
+.section-label-rule {
+    flex: 1;
+    height: 1px;
+    background: var(--portfolio-border-faint);
+}
+
+/* ── Hero ────────────────────────────────────────────────────────── */
+
+.hero-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding-top: 4rem;
+}
+
+.hero-inner {
+    max-width: 64rem;
+    padding: 7rem 1.5rem;
+    width: 100%;
+}
+
+.hero-greeting {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--portfolio-rose);
+}
+
+.hero-name-light {
+    font-family: var(--portfolio-font-display);
+    font-size: clamp(3rem, 10vw, 6rem);
+    font-weight: 900;
+    line-height: 1;
+    letter-spacing: -0.02em;
+    color: var(--portfolio-heading);
+}
+
+.hero-name-rose {
+    font-family: var(--portfolio-font-display);
+    font-size: clamp(3rem, 10vw, 6rem);
+    font-weight: 900;
+    line-height: 1;
+    letter-spacing: -0.02em;
+    color: var(--portfolio-rose);
+}
+
+.hero-role {
+    font-family: var(--portfolio-font-accent);
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--portfolio-muted);
+}
+
+.hero-summary {
+    font-size: 0.875rem;
+    line-height: 1.75;
+    color: var(--portfolio-muted-light);
+    max-width: 32rem;
+}
+
+.btn-portfolio-primary {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.75rem 1.5rem;
+    background-color: var(--portfolio-rose) !important;
+    color: var(--portfolio-bg) !important;
+    border: none;
+    transition: box-shadow 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.portfolio-page .btn-portfolio-primary:hover,
+.portfolio-page .btn-portfolio-primary:focus-visible,
+.portfolio-page .btn-portfolio-primary:active {
+    box-shadow: 0 0 24px var(--portfolio-rose-glow);
+    color: var(--portfolio-bg) !important;
+    background-color: var(--portfolio-rose) !important;
+}
+
+.btn-portfolio-outline {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.75rem 1.5rem;
+    color: var(--portfolio-fg) !important;
+    border: 1px solid rgba(204, 204, 224, 0.15);
+    background-color: transparent !important;
+    transition: border-color 0.2s, color 0.2s, box-shadow 0.2s;
+}
+
+.portfolio-page .btn-portfolio-outline:hover,
+.portfolio-page .btn-portfolio-outline:focus-visible,
+.portfolio-page .btn-portfolio-outline:active {
+    border-color: var(--portfolio-rose-border);
+    color: var(--portfolio-rose) !important;
+    background-color: transparent !important;
+}
+
+.hero-social a {
+    color: var(--portfolio-muted);
+    transition: color 0.2s;
+    font-size: 1.125rem;
+}
+
+.hero-social a:hover {
+    color: var(--portfolio-rose);
+}
+
+/* ── Experience ──────────────────────────────────────────────────── */
+
+.portfolio-section {
+    padding: 6rem 0;
+}
+
+.portfolio-container {
+    max-width: 64rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin: 0 auto;
+}
+
+.exp-item {
+    border: 1px solid var(--portfolio-border-subtle);
+    transition: background 0.3s, border-color 0.3s, box-shadow 0.3s;
+}
+
+.exp-item.open {
+    background: var(--portfolio-card);
+    border-color: var(--portfolio-rose-border);
+    box-shadow: 0 0 30px var(--portfolio-rose-glow);
+}
+
+.exp-header {
+    padding: 1.25rem 1.5rem;
+    cursor: pointer;
+}
+
+.exp-accent-bar {
+    width: 2px;
+    height: 2rem;
+    border-radius: 999px;
+    background: #1e1e2e;
+    flex-shrink: 0;
+    transition: background 0.3s;
+}
+
+.exp-item.open .exp-accent-bar {
+    background: var(--portfolio-rose);
+}
+
+.exp-company {
+    font-family: var(--portfolio-font-accent);
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--portfolio-fg);
+    transition: color 0.2s;
+}
+
+.exp-item.open .exp-company {
+    color: var(--portfolio-rose);
+}
+
+.exp-tag {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    padding: 0.125rem 0.5rem;
+    color: var(--portfolio-muted);
+    border: 1px solid rgba(85, 85, 110, 0.2);
+}
+
+.exp-meta {
+    font-size: 0.75rem;
+    color: var(--portfolio-muted);
+}
+
+.exp-meta .exp-period {
+    font-family: var(--portfolio-font-mono);
+}
+
+.exp-project {
+    font-size: 0.75rem;
+    font-style: italic;
+    color: #3a3a52;
+}
+
+.exp-chevron {
+    color: #3a3a52;
+    transition: transform 0.3s, color 0.2s;
+    flex-shrink: 0;
+}
+
+.exp-item.open .exp-chevron {
+    color: var(--portfolio-rose);
+    transform: rotate(90deg);
+}
+
+.exp-body {
+    padding: 0 1.5rem 1.5rem;
+}
+
+@media (min-width: 576px) {
+    .exp-body {
+        padding-left: 3.5rem;
+        padding-right: 1.5rem;
+    }
+}
+
+.exp-image-link {
+    width: 160px;
+    height: 75px;
+    flex-shrink: 0;
+    overflow: hidden;
+    border: 1px solid rgba(232, 96, 138, 0.15);
+    background: #131320;
+    transition: border-color 0.2s;
+}
+
+.exp-image-link:hover {
+    border-color: var(--portfolio-rose-border);
+}
+
+.exp-image-link img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.exp-project-link {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    color: var(--portfolio-muted);
+    transition: color 0.2s;
+}
+
+.exp-project-link:hover {
+    color: var(--portfolio-rose);
+}
+
+.exp-bullet {
+    font-size: 0.875rem;
+    line-height: 1.625;
+    color: var(--portfolio-muted-light);
+}
+
+.exp-bullet-mark {
+    color: var(--portfolio-rose);
+    flex-shrink: 0;
+    margin-top: 0.2rem;
+}
+
+/* ── Skills ──────────────────────────────────────────────────────── */
+
+.skill-card {
+    padding: 1.25rem;
+    background: var(--portfolio-card);
+    border: 1px solid var(--portfolio-border-subtle);
+    transition: border-color 0.3s, box-shadow 0.3s;
+    height: 100%;
+}
+
+.skill-card:hover {
+    border-color: var(--portfolio-rose-border);
+    box-shadow: 0 0 24px var(--portfolio-rose-glow);
+}
+
+.skill-group-label {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--portfolio-rose);
+    margin-bottom: 1rem;
+}
+
+.skill-tag {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    color: var(--portfolio-muted-light);
+    border: 1px solid rgba(85, 85, 110, 0.18);
+    background: rgba(85, 85, 110, 0.04);
+}
+
+/* ── Education ───────────────────────────────────────────────────── */
+
+.edu-card {
+    padding: 2rem;
+    background: var(--portfolio-card);
+    border: 1px solid var(--portfolio-border-faint);
+    height: 100%;
+}
+
+.edu-label {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--portfolio-rose);
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.edu-degree {
+    font-family: var(--portfolio-font-accent);
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: var(--portfolio-fg);
+    line-height: 1.375;
+    margin-bottom: 0.5rem;
+}
+
+.edu-university {
+    font-size: 0.875rem;
+    color: var(--portfolio-muted);
+}
+
+.edu-activity {
+    font-size: 0.875rem;
+    line-height: 1.625;
+    color: var(--portfolio-muted-light);
+}
+
+.edu-activity a {
+    color: var(--portfolio-muted-light);
+    transition: color 0.2s;
+}
+
+.edu-activity a:hover {
+    color: var(--portfolio-rose);
+}
+
+.edu-activity-mark {
+    color: var(--portfolio-rose);
+    flex-shrink: 0;
+    margin-top: 0.15rem;
+}
+
+/* ── Contact ─────────────────────────────────────────────────────── */
+
+.contact-box {
+    padding: 3rem 1.5rem;
+    background: var(--portfolio-card);
+    border: 1px solid rgba(232, 96, 138, 0.1);
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .contact-box {
+        padding: 5rem;
+    }
+}
+
+.contact-title {
+    font-family: var(--portfolio-font-display);
+    font-size: clamp(2rem, 6vw, 3rem);
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    color: var(--portfolio-heading);
+    margin-bottom: 1rem;
+}
+
+.contact-sub {
+    font-size: 0.875rem;
+    color: var(--portfolio-muted);
+    max-width: 24rem;
+    margin: 0 auto 3rem;
+}
+
+.contact-actions .btn-portfolio-primary:hover,
+.contact-actions .btn-portfolio-primary:focus-visible,
+.contact-actions .btn-portfolio-primary:active {
+    box-shadow: 0 0 28px var(--portfolio-rose-glow);
+}
+
+/* ── Footer ──────────────────────────────────────────────────────── */
+
+.portfolio-footer {
+    padding: 2rem 0;
+    text-align: center;
+    border-top: 1px solid var(--portfolio-border-subtle);
+}
+
+.portfolio-footer p {
+    font-family: var(--portfolio-font-mono);
+    font-size: 0.75rem;
+    color: #2a2a3e;
+    margin: 0;
+}
+
+/* ── Layout overrides ────────────────────────────────────────────── */
+
+.portfolio-layout main {
+    padding: 0;
+}
+
+.portfolio-layout .content {
+    padding: 0;
+}
+
+#blazor-error-ui {
+    color-scheme: dark;
+}
+
+.loading-progress circle:last-child {
+    stroke: var(--portfolio-rose);
+}

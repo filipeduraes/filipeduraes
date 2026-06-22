@@ -1,0 +1,10 @@
+<div class="section-label">
+    <div class="section-label-line"></div>
+    <span class="section-label-text">@Label</span>
+    <div class="section-label-rule"></div>
+</div>
+
+@code {
+    [Parameter, EditorRequired]
+    public string Label { get; set; } = "";
+}
