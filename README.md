@@ -16,7 +16,9 @@
 
 ### Globant · `AAA · Live-Service`
 **Game Engineer** · Jan 2026 — Present · *The Sims*
+
 <a href="https://www.ea.com/games/the-sims"><img src="https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg" width = "500"/></a>
+
 - Contributing to The Sims as part of a Globant outsourcing team supporting Electronic Arts (EA).
 - Developing gameplay features using Python, C++, and data-driven systems within a large-scale proprietary AAA engine.
 - Working within a mature 10+ year-old codebase — a live-service game with 85M+ players.
@@ -25,8 +27,10 @@
 
 ### Big Moxi Games · `Unreal Engine 5`
 **Unreal Game Engineer** · Mar 2024 — Dec 2025 · [Wardens Rising / Exo GP](https://www.bigmoxigames.com)
+
 <a href="https://planetatmos.com/exogp/"><img src="https://cdn1.epicgames.com/spt-assets/986d6cd774a048388c37f43f654098cf/exogp-ibql6.png" width = "500"/></a>
 <a href="https://wardensrising.com"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953" width = "500"/></a>
+
 - Optimized large-scale enemy horde AI in Wardens Rising, reducing frame time by 20% in real-time combat.
 - Implemented gameplay abilities and attacks using Unreal Gameplay Ability System (GAS).
 - Established scalable data-driven UI architecture using Common UI and MVVM — full main menu overhaul for Exo GP.
