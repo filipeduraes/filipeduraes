@@ -1,63 +1,129 @@
-[![Header](https://github.com/filipeduraes/filipeduraes/blob/main/images/FilipeDuraes_Header.jpeg "Header")](https://www.linkedin.com/in/filipeduraes/)
+# Filipe Durães
 
-<h1> 👋 Summary </h1>
-<p>Experienced Game Engineer passionate about solving complex problems and building scalable, high-performance systems. Experienced in Game AI development, multiplayer programming, and gameplay mechanics, with a solid background in C++ and C#. I enjoy creating efficient, maintainable solutions that enhance player experiences and contribute to successful projects. Always learning and evolving, I’m driven to tackle challenges and push technical boundaries.</p>
+### **Game Engineer** · Unreal Engine & Unity
 
-<hr>
+> Game Engineer with 5+ years of experience shipping commercial titles across PC, consoles, and mobile, including AAA and licensed IP productions. Specialized in gameplay engineering, multiplayer systems, and cross-platform performance optimization. Strong expertise in Unreal Engine 5 (C++, Gameplay Ability System, AI, Common UI) and Unity (C#, DOTS/ECS, Addressables), with experience developing large-scale live-service games, platform integrations, backend-connected systems, and data-driven architectures.
 
-<h1> 🔗 Links </h1>
-<ul>
-	<li><a href="https://linkedin.com/in/filipeduraes">Linkedin</a></li>
-	<li><a href="https://drive.google.com/file/d/1k_sis3aYEnxi4GM7l30I-DrPyI5p1RkQ/view?usp=sharing">Resume</a></li>
-	<li><a href="mailto:filipehdduraes@gmail.com">Email</a></li>
-	<li><a href="https://www.instagram.com/idea.togame">Instagram</a></li>
-    	<li><a href="https://facebook.com/idea.togame">Facebook</a></li>
-    	<li><a href="https://www.youtube.com/channel/UCoLD9_rZpGvsr-7PoV0ynRw">Youtube</a></li>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-filipeduraes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipeduraes)
+[![GitHub](https://img.shields.io/badge/GitHub-filipeduraes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/filipeduraes)
+[![Email](https://img.shields.io/badge/Email-filipehdduraes%40gmail.com-E8608A?style=flat-square&logo=gmail&logoColor=white)](mailto:filipehdduraes@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Idea.ToGame-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@IdeaToGame)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-09090f?style=flat-square&logo=googlechrome&logoColor=E8608A)](https://filipeduraes.github.io/filipeduraes/)
 
-<hr>
+---
 
-<h1> 🎮 Skills </h1>
-<ul>
-	<li><b>Programming Languages:</b> C++, C#, Blueprint Game Engines & Tools: Unreal Engine (UE4/UE5, Gameplay Ability System, Common UI, Enhanced Input), Unity Engine (URP, Addressables, Scriptable Objects, Custom Tools)</li>
-	<li><b>Multiplayer Systems:</b> Deterministic multiplayer with Photon Quantum, replication and session management in Unreal, backend integration with PlayFab and Azure, Steam networking features</li>
-	<li><b>Gameplay & Architecture:</b> MVVM, Clean Architecture, modular UI systems, data-driven design, custom editor tools</li>
-	<li><b>Game AI:</b> Behavior Trees, Finite State Machines, A* Pathfinding, Steering Behaviors, Fuzzy Logic</li>
-	<li><b>Performance & Optimization:</b> Memory management, asynchronous programming, object pooling, frame-time profiling, legacy code refactoring</li>
-	<li><b>Miscellaneous:</b> Procedural content generation, unit testing, cross-platform development</li>
-</ul>
+## Experience
 
-<h3> Idea.ToGame project </h3>
-<p> It is a set of pages available on the following platforms: YouTube, Facebook, Instagram and Twitter. It aims to teach various subjects related to Unity, the whole process of scripting, recording, animation, image and video editing is done by me. For more information, go to the contact area, where you will find all the platforms.</p>
+### Globant · `AAA · Live-Service`
+**Game Engineer** · Jan 2026 — Present · *The Sims*
+<a href="https://www.ea.com/games/the-sims"><img src="https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg" width = "500"/></a>
+- Contributing to The Sims as part of a Globant outsourcing team supporting Electronic Arts (EA).
+- Developing gameplay features using Python, C++, and data-driven systems within a large-scale proprietary AAA engine.
+- Working within a mature 10+ year-old codebase — a live-service game with 85M+ players.
 
-<hr>
+---
 
-<h1> 🛠️ Projects </h1>
+### Big Moxi Games · `Unreal Engine 5`
+**Unreal Game Engineer** · Mar 2024 — Dec 2025 · [Wardens Rising / Exo GP](https://www.bigmoxigames.com)
+<a href="https://planetatmos.com/exogp/"><img src="https://cdn1.epicgames.com/spt-assets/986d6cd774a048388c37f43f654098cf/exogp-ibql6.png" width = "500"/></a>
+<a href="https://wardensrising.com"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953" width = "500"/></a>
+- Optimized large-scale enemy horde AI in Wardens Rising, reducing frame time by 20% in real-time combat.
+- Implemented gameplay abilities and attacks using Unreal Gameplay Ability System (GAS).
+- Established scalable data-driven UI architecture using Common UI and MVVM — full main menu overhaul for Exo GP.
+- Session management with API integrations across Epic Games Store, Rally Here, and Atmos backend.
 
-<h3>ExoGP</h3>
-<a href="https://store.epicgames.com/pt-BR/p/exogp-af73bc"><img src="https://cdn1.epicgames.com/spt-assets/986d6cd774a048388c37f43f654098cf/exogp-ibql6.png" height = "300"/></a>
+---
 
-<h3>Wardens Rising</h3>
-<a href="https://store.steampowered.com/app/1055560/Wardens_Rising/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953" height = "300"/></a>
+### Unli Games · `Multiplayer · Photon Quantum`
+**Unity Game Engineer** · Nov 2023 — Feb 2024 · *Competitive Multiplayer*
 
-<h3>Go Island</h3>
-<a href="https://www.youtube.com/watch?v=ouvWhTyunKM"><img src="./images/GoIsland_Preview.jpg" height = "300"/></a>
+- Designed and implemented deterministic multiplayer using Photon Quantum for frame-accurate sync.
+- Integrated PlayFab and Azure backend services with runtime asset management for cross-platform compatibility.
+- Acted as technical reference for gameplay and networking architecture decisions.
 
-<h3>The Walking Dead: Destinies</h3>
-<a href="https://www.twddestinies.com"><img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000065762/7b6cb0dbda0f8d2173b65720d3520a93f75080a756ea7e7d4ad364afb11505f8" height = "300"/></a>
+---
 
-<h3>Elderand</h3>
-<a href="https://store.steampowered.com/app/1413660/Elderand/"><img src="https://cdn1.epicgames.com/spt-assets/0e168f0bdd2d4ee79113ec5dead2ce72/elderand-r6ddk.jpg" height = "300"/></a>
+### Flux Games · `Licensed IP · 6 Platforms`
+**Unity Game Engineer** · Nov 2022 — Nov 2023 · [The Walking Dead: Destinies](https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/)
 
-<h3>King's Feast</h3>
-<a href="https://drive.google.com/file/d/1h603x9aE8cpDxhTV6BQ6bw8gn522cpky/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1XcdGy-ifoRLFHzr8xkS0YerxeL4fn36u" height = "300"/></a>
+<a href="https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2192790/header.jpg" width = "500"/></a>
 
-<h3>Space Shooter</h3>
-<a href="https://play.unity.com/mg/other/generic-space-shooter"><img src="https://play-static.unity.com/20230606/p/images/db6a88a8-97b2-4713-9f64-49b5c0654068_image_2023_06_06_021718560.png" height = "300"/></a>
+- Developed and shipped modular gameplay systems for The Walking Dead: Destinies (GameMill Entertainment) across 6 platforms.
+- Implemented complex branching quest flows and multi-phase boss fights.
+- Refactored legacy code, improving stability and reducing crash rates across core game loops.
 
-<h3>Bug Tower</h3>
-<a href="https://gamejolt.com/games/bugtower/574576"><img src="https://m.gjcdn.net/game-screenshot/700/5280269-rn2gyxtw-v4.webp" height = "300"/></a>
+---
 
-<hr>
+### Mantra Filmes · `Metroidvania · PC/Console/Mobile`
+**Unity Game Engineer** · Dec 2021 — Mar 2023 · [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeduraes&hide=Makefile&layout=compact&theme=dracula" height="150" alt="Filipe Durães's top langs" />
+<a href="https://store.steampowered.com/app/1413660/Elderand/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1413660/header.jpg" width = "500"/></a>
+
+- Shipped Elderand, a Metroidvania released on PC, consoles, and mobile with 75K+ units sold.
+- Re-architected core game systems — significantly reduced critical bug resolution time.
+- Implemented Addressables reducing load time by 85%, from ~6s to under 1s.
+- Built custom editor tools cutting level architecture iteration from hours to minutes.
+- Implemented Behavior Tree-driven AI for boss encounters + Steam Auto-Cloud save persistence.
+
+---
+
+### Z3 Studio · `Mobile · Performance`
+**Unity Mobile Game Engineer** · Jun 2021 — Aug 2021 · *Mobile Game*
+
+- Developed core gameplay features optimizing mobile builds with Object Pooling for memory management.
+
+---
+
+## Skills & Technologies
+
+| | |
+|---|---|
+| **Languages** | `C++` `C#` `Blueprint` `Python` `Java` `JavaScript` |
+| **Unreal Engine** | `GAS` `Common UI` `MVVM` `C++` `Blueprint` `UE5` |
+| **Unity** | `Photon Quantum` `Addressables` `DOTS/ECS` `Custom Editor` |
+| **Networking & Backend** | `PlayFab` `Azure` `Steamworks` `REST APIs` `SQL` `Photon` |
+| **Architecture** | `OOP` `SOLID` `MVVM` `Clean Architecture` `DDD` `ECS` |
+| **AI & Gameplay** | `Behavior Tree` `FSM` `GOAP` `A*` `Steering Behavior` |
+| **Optimization** | `Profiling` `Object Pooling` `Memory Mgmt` `DOTS` `TDD` |
+| **Tools & VCS** | `Git` `Perforce` `Plastic SCM` `Jira` `SCRUM` `Agile` |
+
+---
+
+## Education & Community
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**2023 — 2027**
+
+### Bachelor in Information Systems (Ongoing)
+Federal University of Vales do Jequitinhonha e Mucuri
+
+</td>
+<td width="50%" valign="top">
+
+**Community**
+
+- › [Educational Content Creator — Idea.ToGame on YouTube](https://www.youtube.com/@IdeaToGame)
+- › Hackathon Organizer & Coordinator — UaiDev Tech Event
+- › President — ByteBuilders Academic League
+- › Game Development Project Mentor — ByteBuilders Academic League
+
+</td>
+</tr>
+</table>
+
+---
+
+## Contact
+
+**Get In Touch**
+
+Open to new opportunities and global collaborations.
+
+[Send Email](mailto:filipehdduraes@gmail.com) · [LinkedIn](https://linkedin.com/in/filipeduraes) · [GitHub](https://github.com/filipeduraes) · [YouTube](https://www.youtube.com/@IdeaToGame)
+
+---
+
+<sub>Designed & built by Filipe Durães · Interactive portfolio: [filipeduraes.github.io/filipeduraes](https://filipeduraes.github.io/filipeduraes/)</sub>
