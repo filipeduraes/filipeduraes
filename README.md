@@ -1,8 +1,8 @@
 # Filipe Durães
 
-### **Game Engineer** · Unreal Engine & Unity
+### Game Engineer · Unreal Engine & Unity
 
-> Game Engineer with 5+ years of experience shipping commercial titles across PC, consoles, and mobile, including AAA and licensed IP productions. Specialized in gameplay engineering, multiplayer systems, and cross-platform performance optimization. Strong expertise in Unreal Engine 5 (C++, Gameplay Ability System, AI, Common UI) and Unity (C#, DOTS/ECS, Addressables), with experience developing large-scale live-service games, platform integrations, backend-connected systems, and data-driven architectures.
+Game Engineer with 5+ years of experience shipping commercial titles across PC, consoles, and mobile, including AAA and licensed IP productions. Specialized in gameplay engineering, multiplayer systems, and cross-platform performance optimization. Strong expertise in Unreal Engine 5 (C++, Gameplay Ability System, AI, Common UI) and Unity (C#, DOTS/ECS, Addressables), with experience developing large-scale live-service games, platform integrations, backend-connected systems, and data-driven architectures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-filipeduraes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipeduraes)
 [![GitHub](https://img.shields.io/badge/GitHub-filipeduraes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/filipeduraes)
@@ -14,120 +14,116 @@
 
 ## Experience
 
-### Globant · `AAA · Live-Service`
-**Game Engineer** · Jan 2026 — Present · *The Sims*
+### Globant
 
-<a href="https://www.ea.com/games/the-sims"><img src="https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg" width = "500"/></a>
+Game Engineer · Jan 2026 - Present
 
-- Contributing to The Sims as part of a Globant outsourcing team supporting Electronic Arts (EA).
-- Developing gameplay features using Python, C++, and data-driven systems within a large-scale proprietary AAA engine.
-- Working within a mature 10+ year-old codebase — a live-service game with 85M+ players.
+<a href="https://www.ea.com/games/the-sims"><img src="https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg" width="500"/></a>
 
----
+Working on The Sims as part of a Globant team supporting Electronic Arts.
 
-### Big Moxi Games · `Unreal Engine 5`
-**Unreal Game Engineer** · Mar 2024 — Dec 2025 · [Wardens Rising / Exo GP](https://www.bigmoxigames.com)
+- Developing gameplay features using C++ and Python.
+- Working with data-driven systems inside a large proprietary game engine.
+- Maintaining and extending systems in a mature live-service codebase.
+- Working with existing systems and architecture in a large-scale production environment.
 
-<a href="https://planetatmos.com/exogp/"><img src="https://cdn1.epicgames.com/spt-assets/986d6cd774a048388c37f43f654098cf/exogp-ibql6.png" width = "500"/></a>
-<a href="https://wardensrising.com"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953" width = "500"/></a>
+### Big Moxi Games
 
-- Optimized large-scale enemy horde AI in Wardens Rising, reducing frame time by 20% in real-time combat.
-- Implemented gameplay abilities and attacks using Unreal Gameplay Ability System (GAS).
-- Established scalable data-driven UI architecture using Common UI and MVVM — full main menu overhaul for Exo GP.
-- Session management with API integrations across Epic Games Store, Rally Here, and Atmos backend.
+Unreal Game Engineer · Mar 2024 - Dec 2025
 
----
+<a href="https://planetatmos.com/exogp/"><img src="https://cdn1.epicgames.com/spt-assets/986d6cd774a048388c37f43f654098cf/exogp-ibql6.png" width="500"/></a>
+<a href="https://wardensrising.com"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1055560/capsule_616x353.jpg?t=1714507953" width="500"/></a>
 
-### Unli Games · `Multiplayer · Photon Quantum`
-**Unity Game Engineer** · Nov 2023 — Feb 2024 · *Competitive Multiplayer*
+Worked on Wardens Rising and Exo GP using Unreal Engine 5.
 
-- Designed and implemented deterministic multiplayer using Photon Quantum for frame-accurate sync.
-- Integrated PlayFab and Azure backend services with runtime asset management for cross-platform compatibility.
-- Acted as technical reference for gameplay and networking architecture decisions.
+- Optimized enemy horde AI in Wardens Rising, reducing frame time by 20% during combat.
+- Implemented gameplay abilities and attacks using Gameplay Ability System.
+- Developed UI systems using Common UI and MVVM.
+- Reworked the main menu architecture in Exo GP.
+- Implemented session management and integrations with Epic Games Store, Rally Here, and Atmos.
 
----
+### Unli Games
 
-### Flux Games · `Licensed IP · 6 Platforms`
-**Unity Game Engineer** · Nov 2022 — Nov 2023 · [The Walking Dead: Destinies](https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/)
+Unity Game Engineer · Nov 2023 - Feb 2024
 
-<a href="https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2192790/header.jpg" width = "500"/></a>
+Worked on competitive multiplayer games using Unity and Photon Quantum.
 
-- Developed and shipped modular gameplay systems for The Walking Dead: Destinies (GameMill Entertainment) across 6 platforms.
-- Implemented complex branching quest flows and multi-phase boss fights.
-- Refactored legacy code, improving stability and reducing crash rates across core game loops.
+- Developed deterministic multiplayer gameplay using Photon Quantum.
+- Integrated PlayFab and Azure services.
+- Worked on runtime asset management for cross-platform builds.
+- Contributed to gameplay and networking architecture decisions.
 
----
+### Flux Games
 
-### Mantra Filmes · `Metroidvania · PC/Console/Mobile`
-**Unity Game Engineer** · Dec 2021 — Mar 2023 · [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
+Unity Game Engineer · Nov 2022 - Nov 2023
 
-<a href="https://store.steampowered.com/app/1413660/Elderand/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1413660/header.jpg" width = "500"/></a>
+<a href="https://store.steampowered.com/app/2192790/The_Walking_Dead_Destinies/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2192790/header.jpg" width="500"/></a>
 
-- Shipped Elderand, a Metroidvania released on PC, consoles, and mobile with 75K+ units sold.
-- Re-architected core game systems — significantly reduced critical bug resolution time.
-- Implemented Addressables reducing load time by 85%, from ~6s to under 1s.
-- Built custom editor tools cutting level architecture iteration from hours to minutes.
-- Implemented Behavior Tree-driven AI for boss encounters + Steam Auto-Cloud save persistence.
+Worked on The Walking Dead: Destinies for GameMill Entertainment.
 
----
+- Developed gameplay systems for a multi-platform release.
+- Implemented branching quest flows and multi-phase boss fights.
+- Refactored existing systems to improve stability.
+- Worked on gameplay systems across six platforms.
 
-### Z3 Studio · `Mobile · Performance`
-**Unity Mobile Game Engineer** · Jun 2021 — Aug 2021 · *Mobile Game*
+### Mantra Filmes
 
-- Developed core gameplay features optimizing mobile builds with Object Pooling for memory management.
+Unity Game Engineer · Dec 2021 - Mar 2023
 
----
+<a href="https://store.steampowered.com/app/1413660/Elderand/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1413660/header.jpg" width="500"/></a>
 
-## Skills & Technologies
+Worked on Elderand, a Metroidvania released for PC, consoles, and mobile.
 
-| | |
-|---|---|
-| **Languages** | `C++` `C#` `Blueprint` `Python` `Java` `JavaScript` |
-| **Unreal Engine** | `GAS` `Common UI` `MVVM` `C++` `Blueprint` `UE5` |
-| **Unity** | `Photon Quantum` `Addressables` `DOTS/ECS` `Custom Editor` |
-| **Networking & Backend** | `PlayFab` `Azure` `Steamworks` `REST APIs` `SQL` `Photon` |
-| **Architecture** | `OOP` `SOLID` `MVVM` `Clean Architecture` `DDD` `ECS` |
-| **AI & Gameplay** | `Behavior Tree` `FSM` `GOAP` `A*` `Steering Behavior` |
-| **Optimization** | `Profiling` `Object Pooling` `Memory Mgmt` `DOTS` `TDD` |
-| **Tools & VCS** | `Git` `Perforce` `Plastic SCM` `Jira` `SCRUM` `Agile` |
+- Developed and shipped core gameplay systems.
+- Reworked existing systems to reduce the time required to fix critical bugs.
+- Implemented Unity Addressables, reducing load times from approximately 6 seconds to under 1 second.
+- Developed custom editor tools to reduce level design iteration time.
+- Implemented Behavior Tree-based AI for boss encounters.
+- Implemented Steam Auto-Cloud save support.
+
+### Z3 Studio
+
+Unity Mobile Game Engineer · Jun 2021 - Aug 2021
+
+- Developed gameplay systems for a mobile game.
+- Optimized memory usage using Object Pooling.
 
 ---
 
-## Education & Community
+## Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**2023 — 2027**
-
-### Bachelor in Information Systems (Ongoing)
-Federal University of Vales do Jequitinhonha e Mucuri
-
-</td>
-<td width="50%" valign="top">
-
-**Community**
-
-- › [Educational Content Creator — Idea.ToGame on YouTube](https://www.youtube.com/@IdeaToGame)
-- › Hackathon Organizer & Coordinator — UaiDev Tech Event
-- › President — ByteBuilders Academic League
-- › Game Development Project Mentor — ByteBuilders Academic League
-
-</td>
-</tr>
-</table>
+|                       |                                                                 |
+| --------------------- | --------------------------------------------------------------- |
+| Languages             | `C++` `C#` `Python` `Java` `JavaScript`                         |
+| Unreal Engine         | `UE5` `C++` `Blueprint` `GAS` `Common UI` `MVVM`                |
+| Unity                 | `C#` `Photon Quantum` `Addressables` `DOTS/ECS` `Custom Editor` |
+| Multiplayer & Backend | `Photon` `PlayFab` `Azure` `Steamworks` `REST APIs` `SQL`       |
+| Gameplay & AI         | `Behavior Trees` `FSM` `GOAP` `A*` `Steering Behaviors`         |
+| Architecture          | `OOP` `SOLID` `MVVM` `ECS`                                      |
+| Optimization          | `Profiling` `Object Pooling` `Memory Optimization`              |
+| Tools                 | `Git` `Perforce` `Plastic SCM` `Jira`                           |
 
 ---
 
-## Contact
+## Education
 
-**Get In Touch**
+### Bachelor in Information Systems
 
-Open to new opportunities and global collaborations.
-
-[Send Email](mailto:filipehdduraes@gmail.com) · [LinkedIn](https://linkedin.com/in/filipeduraes) · [GitHub](https://github.com/filipeduraes) · [YouTube](https://www.youtube.com/@IdeaToGame)
+Federal University of Vales do Jequitinhonha e Mucuri · 2023 - 2027
 
 ---
 
-<sub>Designed & built by Filipe Durães · Interactive portfolio: [filipeduraes.github.io/filipeduraes](https://filipeduraes.github.io/filipeduraes/)</sub>
+## Community
+
+- Educational Content Creator at [Idea.ToGame](https://www.youtube.com/@IdeaToGame)
+- Hackathon Organizer and Coordinator at UaiDev Tech Event
+- President of the ByteBuilders Academic League
+- Game Development Project Mentor at ByteBuilders Academic League
+
+---
+
+## Projects
+
+More projects and technical details are available on my [portfolio](https://filipeduraes.github.io/filipeduraes/).
+
+[LinkedIn](https://linkedin.com/in/filipeduraes) · [GitHub](https://github.com/filipeduraes) · [YouTube](https://www.youtube.com/@IdeaToGame)
