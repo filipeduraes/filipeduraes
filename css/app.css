@@ -1,18 +1,5 @@
-html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-.portfolio-page a.btn-portfolio-primary,
-.portfolio-page a.btn-portfolio-outline {
-    text-decoration: none;
-}
-
 h1:focus {
     outline: none;
-}
-
-a, .btn-link {
-    color: #0071c1;
 }
 
 .btn-primary {
